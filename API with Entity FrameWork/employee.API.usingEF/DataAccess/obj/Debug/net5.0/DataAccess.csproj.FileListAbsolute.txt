@@ -1,0 +1,15 @@
+C:\Users\VuyoN\Desktop\THE PROJECT (TEST)\MY PROJECTS\NET CORE API\API with Entity FrameWork\employee.API.usingEF\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\VuyoN\Desktop\THE PROJECT (TEST)\MY PROJECTS\NET CORE API\API with Entity FrameWork\employee.API.usingEF\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\VuyoN\Desktop\THE PROJECT (TEST)\MY PROJECTS\NET CORE API\API with Entity FrameWork\employee.API.usingEF\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\VuyoN\Desktop\THE PROJECT (TEST)\MY PROJECTS\NET CORE API\API with Entity FrameWork\employee.API.usingEF\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\VuyoN\Desktop\THE PROJECT (TEST)\MY PROJECTS\NET CORE API\API with Entity FrameWork\employee.API.usingEF\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\VuyoN\Desktop\THE PROJECT (TEST)\MY PROJECTS\NET CORE API\API with Entity FrameWork\employee.API.usingEF\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\VuyoN\Desktop\THE PROJECT (TEST)\MY PROJECTS\NET CORE API\API with Entity FrameWork\employee.API.usingEF\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\VuyoN\Desktop\THE PROJECT (TEST)\MY PROJECTS\NET CORE API\API with Entity FrameWork\employee.API.usingEF\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VuyoN\Desktop\THE PROJECT (TEST)\MY PROJECTS\NET CORE API\API with Entity FrameWork\employee.API.usingEF\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\VuyoN\Desktop\THE PROJECT (TEST)\MY PROJECTS\NET CORE API\API with Entity FrameWork\employee.API.usingEF\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\VuyoN\Desktop\THE PROJECT (TEST)\MY PROJECTS\NET CORE API\API with Entity FrameWork\employee.API.usingEF\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\VuyoN\Desktop\THE PROJECT (TEST)\MY PROJECTS\NET CORE API\API with Entity FrameWork\employee.API.usingEF\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\VuyoN\Desktop\THE PROJECT (TEST)\MY PROJECTS\NET CORE API\API with Entity FrameWork\employee.API.usingEF\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\VuyoN\Desktop\THE PROJECT (TEST)\MY PROJECTS\NET CORE API\API with Entity FrameWork\employee.API.usingEF\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\VuyoN\Desktop\THE PROJECT (TEST)\MY PROJECTS\NET CORE API\API with Entity FrameWork\employee.API.usingEF\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache

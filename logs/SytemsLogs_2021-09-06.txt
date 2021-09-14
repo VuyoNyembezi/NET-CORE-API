@@ -1,0 +1,348 @@
+2021-09-06 08:45:00,142 [13] INFO  App  
+ Log system initialized 
+ 
+2021-09-06 08:45:00,166 [13] INFO  App  
+ Admin/User with email = aDMIN@GMAIL.COM Accessed the Sytem 
+ 
+2021-09-06 08:45:35,976 [15] INFO  App  
+ User with ID = 5004 role is changed to 2 
+ 
+2021-09-06 08:51:42,457 [33] INFO  App  
+ User with ID = 5004 role is changed to 3 
+ 
+2021-09-06 08:52:06,449 [33] INFO  App  
+ User with ID = 5004 role is changed to 2 
+ 
+2021-09-06 09:03:37,431 [23] INFO  App  
+ Admin/User with email = vonk@gmail.com Accessed the Sytem 
+ 
+2021-09-06 09:03:37,482 [14] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 09:03:56,596 [23] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 09:04:05,498 [9] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 09:46:55,046 [39] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-06 09:50:08,365 [74] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 09:50:30,780 [77] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 09:53:16,086 [81] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 09:53:27,954 [81] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 09:53:31,807 [81] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 09:56:47,628 [87] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 09:56:48,813 [82] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 09:56:53,879 [80] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 09:57:49,129 [79] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:03:57,359 [70] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:03:58,404 [65] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:04:01,868 [69] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:04:28,090 [63] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:04:29,242 [63] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:04:35,575 [58] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:06:15,127 [55] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:08:14,900 [48] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:08:19,120 [50] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:08:34,195 [49] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:08:45,328 [50] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:08:48,123 [48] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:08:51,921 [50] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:08:53,058 [51] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:08:56,488 [44] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:09:25,119 [43] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:09:30,462 [43] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:09:31,621 [43] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:09:32,562 [4] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:09:33,569 [42] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:09:34,711 [4] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:09:36,781 [43] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:09:37,659 [42] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:09:38,589 [41] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:09:41,547 [5] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:10:25,260 [8] INFO  App  
+ new record succeffully added  Thenjiwe  Nyembezi 
+ 
+2021-09-06 10:10:28,242 [14] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:10:36,612 [8] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:10:41,244 [14] INFO  App  
+ Employee with ID =34002, Data was accessed 
+ 
+2021-09-06 10:10:43,484 [9] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:11:04,508 [13] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:11:18,670 [13] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:11:26,050 [9] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:11:41,046 [9] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:17:38,324 [95] INFO  App  
+ new user Added to the Sytem administration Rights name : service@gmail.com, Email : 15@gmail.com 
+ 
+2021-09-06 10:17:38,597 [95] ERROR App  
+ Index was outside the bounds of the array. 
+ 
+2021-09-06 10:18:09,911 [100] INFO  App  
+ new user Added to the Sytem administration Rights name : vey, Email : service@gmail.com 
+ 
+2021-09-06 10:18:29,066 [102] INFO  App  
+ new user Added to the Sytem administration Rights name : seli, Email : service@gmail.com 
+ 
+2021-09-06 10:18:43,661 [99] INFO  App  
+ new user Added to the Sytem administration Rights name : selisa, Email : admin1@gmail.com 
+ 
+2021-09-06 10:18:59,732 [101] INFO  App  
+ User with Id = 7003 is Deactivated  
+ 
+2021-09-06 10:19:40,693 [100] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:19:42,384 [100] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:19:46,629 [100] INFO  App  
+ Employee with ID =8, Data was accessed 
+ 
+2021-09-06 10:19:51,532 [108] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:19:56,418 [109] INFO  App  
+ Employee with ID =13, Data was accessed 
+ 
+2021-09-06 10:20:03,141 [111] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:20:05,185 [105] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:21:47,496 [113] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:22:12,779 [115] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:22:16,087 [112] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 10:53:53,920 [13] INFO  App  
+ Log system initialized 
+ 
+2021-09-06 10:53:53,952 [13] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-06 10:54:26,757 [26] INFO  App  
+ User with ID = 7002 role is changed to 3 
+ 
+2021-09-06 10:55:35,077 [29] INFO  App  
+ Admin/User with email = service@gmail.com Accessed the Sytem 
+ 
+2021-09-06 10:56:04,731 [33] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-06 11:56:48,539 [9] INFO  App  
+ Log system initialized 
+ 
+2021-09-06 11:57:10,148 [22] INFO  App  
+ new user Added to the Sytem administration Rights name : admin, Email : admin@gmail.com 
+ 
+2021-09-06 11:57:28,460 [21] INFO  App  
+ new user Added to the Sytem administration Rights name : sethu, Email : st@gmail.com 
+ 
+2021-09-06 11:57:44,345 [29] INFO  App  
+ new user Added to the Sytem administration Rights name : vuyo, Email : vuyo@gmail.com 
+ 
+2021-09-06 12:23:59,749 [9] INFO  App  
+ Log system initialized 
+ 
+2021-09-06 12:24:32,274 [9] ERROR App  
+ Object reference not set to an instance of an object. 
+ 
+2021-09-06 12:25:39,477 [4] INFO  App  
+ Log system initialized 
+ 
+2021-09-06 12:26:25,170 [12] INFO  App  
+ User's with Email = st@gmail.com is reset key sent  
+ 
+2021-09-06 12:28:00,634 [5] INFO  App  
+ Log system initialized 
+ 
+2021-09-06 12:28:32,019 [9] INFO  App  
+ User's with Email = st@gmail.com is reset key sent  
+ 
+2021-09-06 12:44:51,219 [5] INFO  App  
+ Log system initialized 
+ 
+2021-09-06 12:48:42,820 [12] INFO  App  
+ Log system initialized 
+ 
+2021-09-06 12:49:29,767 [17] INFO  App  
+ User's with Email = st@gmail.com is reset key sent  
+ 
+2021-09-06 12:53:21,150 [5] INFO  App  
+ Log system initialized 
+ 
+2021-09-06 12:53:24,833 [15] INFO  App  
+ User's with Email = st@gmail.com is reset key sent  
+ 
+2021-09-06 12:55:16,604 [5] INFO  App  
+ Log system initialized 
+ 
+2021-09-06 12:55:21,640 [5] ERROR App  
+ Index was outside the bounds of the array. 
+ 
+2021-09-06 12:56:05,294 [8] INFO  App  
+ User's with Email = st@gmail.com is reset key sent  
+ 
+2021-09-06 13:24:38,407 [5] INFO  App  
+ Log system initialized 
+ 
+2021-09-06 13:25:00,025 [25] INFO  App  
+ new user Added to the Sytem administration Rights name : tester, Email : tester@gmail.com 
+ 
+2021-09-06 13:25:35,835 [23] INFO  App  
+ User's with Email = tester@gmail.com is reset key sent  
+ 
+2021-09-06 13:39:23,885 [8] INFO  App  
+ Log system initialized 
+ 
+2021-09-06 13:40:26,939 [13] INFO  App  
+ Log system initialized 
+ 
+2021-09-06 13:41:25,056 [18] INFO  App  
+ User's passsword with Email = tester@gmail.com  Changed  
+ 
+2021-09-06 13:53:25,851 [9] INFO  App  
+ Log system initialized 
+ 
+2021-09-06 13:55:09,307 [8] INFO  App  
+ Log system initialized 
+ 
+2021-09-06 13:56:18,067 [5] INFO  App  
+ User's passsword with Email = tester@gmail.com  Changed  
+ 
+2021-09-06 13:57:07,131 [27] INFO  App  
+ Admin/User with email = tester@gmail.com Accessed the Sytem 
+ 
+2021-09-06 13:57:07,199 [32] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 13:57:51,325 [33] INFO  App  
+ User's passsword with Email = tester@gmail.com  Changed  
+ 
+2021-09-06 13:58:09,063 [36] INFO  App  
+ Admin/User with email = tester@gmail.com Accessed the Sytem 
+ 
+2021-09-06 13:58:12,848 [37] INFO  App  
+ Admin/User with email = tester@gmail.com Accessed the Sytem 
+ 
+2021-09-06 13:58:12,898 [36] INFO  App  
+ Employees data accessed 
+ 
+2021-09-06 15:30:53,502 [4] INFO  App  
+ Log system initialized 
+ 
+2021-09-06 15:30:57,866 [4] INFO  App  
+ User's passsword with Email = tester@gmail.com  Changed  
+ 
+2021-09-06 15:31:39,191 [16] INFO  App  
+ User's passsword with Email = tester@gmail.com  Changed  
+ 
+2021-09-06 15:33:19,138 [5] INFO  App  
+ Log system initialized 
+ 
+2021-09-06 15:35:20,969 [14] INFO  App  
+ Log system initialized 
+ 
+2021-09-06 15:37:39,079 [24] INFO  App  
+ User's passsword with Email = tester@gmail.com  Changed  
+ 
+2021-09-06 15:49:25,761 [13] INFO  App  
+ User's with Email = tester@gmail.com is reset key sent  
+ 
+2021-09-06 16:16:55,806 [53] INFO  App  
+ User's with Email = tester@gmail.com is reset key sent  
+ 
+2021-09-06 16:17:49,167 [63] INFO  App  
+ User's passsword with Email = tester@gmail.com  Changed  
+ 

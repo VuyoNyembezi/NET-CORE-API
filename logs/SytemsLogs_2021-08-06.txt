@@ -1,0 +1,126 @@
+2021-08-06 11:23:21,530 [13] INFO  App  
+ Log system initialized 
+ 
+2021-08-06 11:23:21,571 [13] INFO  App  
+ new user Added to the Sytem administration name = vuyo, Email = admin@gmail.com 
+ 
+2021-08-06 11:24:36,590 [13] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-08-06 11:31:10,841 [17] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-08-06 11:31:16,614 [15] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-08-06 11:31:38,759 [13] INFO  App  
+ new user Added to the Sytem administration name = test, Email = test@gmail.com 
+ 
+2021-08-06 11:31:56,175 [13] INFO  App  
+ Admin with ID = test@gmail.com Accessed the Sytem 
+ 
+2021-08-06 11:31:56,248 [9] INFO  App  
+ Employees data accessed 
+ 
+2021-08-06 12:21:29,316 [23] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-08-06 12:21:29,383 [24] INFO  App  
+ Employees data accessed 
+ 
+2021-08-06 12:21:46,731 [23] INFO  App  
+ Employees data accessed 
+ 
+2021-08-06 12:21:51,049 [23] INFO  App  
+ Employees data accessed 
+ 
+2021-08-06 12:22:30,243 [28] INFO  App  
+ new user Added to the Sytem administration name = mzaq, Email = san@gmail.com 
+ 
+2021-08-06 12:22:42,295 [28] INFO  App  
+ Employees data accessed 
+ 
+2021-08-06 12:23:01,098 [30] INFO  App  
+ new record succeffully added  Vuyo  Vakalisa 
+ 
+2021-08-06 12:23:09,255 [28] INFO  App  
+ Employees data accessed 
+ 
+2021-08-06 12:24:55,341 [33] INFO  App  
+ Employees data accessed 
+ 
+2021-08-06 12:24:57,196 [35] INFO  App  
+ Employees data accessed 
+ 
+2021-08-06 12:25:08,807 [34] INFO  App  
+ Employees data accessed 
+ 
+2021-08-06 12:25:12,618 [38] INFO  App  
+ Employee with ID =2005, Data was accessed 
+ 
+2021-08-06 12:25:14,432 [35] INFO  App  
+ Employees data accessed 
+ 
+2021-08-06 14:24:07,833 [13] INFO  App  
+ Log system initialized 
+ 
+2021-08-06 14:24:07,861 [13] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-08-06 14:24:17,828 [17] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-08-06 14:25:30,103 [21] INFO  App  
+ new user Added to the Sytem administration name = Mbali, Email = mbali@bets.com 
+ 
+2021-08-06 14:29:31,675 [26] INFO  App  
+ Admin with ID = admin@gmail Accessed the Sytem 
+ 
+2021-08-06 14:30:02,209 [27] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-08-06 14:30:02,300 [31] INFO  App  
+ Employees data accessed 
+ 
+2021-08-06 14:32:23,674 [39] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-08-06 14:36:56,966 [41] INFO  App  
+ Admin with ID = mbali@bets.com Accessed the Sytem 
+ 
+2021-08-06 14:36:57,023 [43] INFO  App  
+ Employees data accessed 
+ 
+2021-08-06 16:16:13,501 [8] INFO  App  
+ Log system initialized 
+ 
+2021-08-06 16:16:13,525 [8] INFO  App  
+ new user Added to the Sytem administration name = vuyo, Email = admin@gmail.com 
+ 
+2021-08-06 16:16:41,556 [8] INFO  App  
+ Log system initialized 
+ 
+2021-08-06 16:16:41,582 [8] INFO  App  
+ new user Added to the Sytem administration name = vuyo, Email = admin@gmail.com 
+ 
+2021-08-06 16:29:48,297 [5] INFO  App  
+ Log system initialized 
+ 
+2021-08-06 16:29:48,321 [5] INFO  App  
+ new user Added to the Sytem administration name = ADMIN, Email = zaza@gmail.com 
+ 
+2021-08-06 16:29:59,472 [13] INFO  App  
+ new user Added to the Sytem administration name = ADMIN, Email = zaza@gmail.com 
+ 
+2021-08-06 16:30:17,481 [13] INFO  App  
+ new user Added to the Sytem administration name = lercy, Email = percy@gmail.com 
+ 
+2021-08-06 16:30:37,234 [13] INFO  App  
+ new user Added to the Sytem administration name = waqs, Email = dews@gmail.com 
+ 
+2021-08-06 16:30:49,311 [18] INFO  App  
+ Admin with ID = dews@gmail.com Accessed the Sytem 
+ 
+2021-08-06 16:31:03,476 [13] INFO  App  
+ Admin with ID = dews@gmail.com Accessed the Sytem 
+ 

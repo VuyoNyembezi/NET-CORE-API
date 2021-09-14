@@ -1,0 +1,70 @@
+2021-07-28 12:16:41,910 [4] INFO  App  
+ Log system initialized 
+ 
+2021-07-28 12:16:41,921 [4] INFO  App  
+ Employees data accessed 
+ 
+2021-07-28 12:17:01,766 [5] INFO  App  
+ Employee with ID =18003, Data was accessed 
+ 
+2021-07-28 12:18:15,934 [22] ERROR App  
+ The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Employee_Gender". The conflict occurred in database "Testing", table "dbo.Gender", column 'GenderID'.
+The statement has been terminated. 
+ 
+2021-07-28 12:19:03,529 [24] ERROR App  
+ The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Employee_Gender". The conflict occurred in database "Testing", table "dbo.Gender", column 'GenderID'.
+The statement has been terminated. 
+ 
+2021-07-28 12:19:07,709 [27] INFO  App  
+ Employees data accessed 
+ 
+2021-07-28 12:20:13,045 [29] ERROR App  
+ The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Employee_Gender". The conflict occurred in database "Testing", table "dbo.Gender", column 'GenderID'.
+The statement has been terminated. 
+ 
+2021-07-28 12:20:34,273 [36] ERROR App  
+ The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Employee_Gender". The conflict occurred in database "Testing", table "dbo.Gender", column 'GenderID'.
+The statement has been terminated. 
+ 
+2021-07-28 12:21:56,846 [5] INFO  App  
+ Log system initialized 
+ 
+2021-07-28 12:22:07,733 [14] INFO  App  
+ new record succeffully added  
+ 
+2021-07-28 12:24:49,572 [9] INFO  App  
+ Log system initialized 
+ 
+2021-07-28 12:24:53,593 [5] INFO  App  
+ new record succeffully added  
+ 
+2021-07-28 12:25:27,640 [13] INFO  App  
+ Employees data accessed 
+ 
+2021-07-28 12:26:40,620 [24] INFO  App  
+ Employee with ID =22007, Data was accessed 
+ 
+2021-07-28 12:29:28,777 [4] INFO  App  
+ Log system initialized 
+ 
+2021-07-28 12:33:26,979 [19] INFO  App  
+ Employees data accessed 
+ 
+2021-07-28 12:34:07,157 [24] INFO  App  
+ Employees data accessed 
+ 
+2021-07-28 12:34:11,951 [27] INFO  App  
+ new record succeffully added  
+ 
+2021-07-28 12:38:21,579 [4] INFO  App  
+ Log system initialized 
+ 
+2021-07-28 12:38:21,587 [4] INFO  App  
+ Employees data accessed 
+ 
+2021-07-28 12:38:57,941 [17] INFO  App  
+ Employee with ID 22008 is Terminated 
+ 
+2021-07-28 12:39:44,023 [21] INFO  App  
+ Employee with ID 20000000 is Terminated 
+ 

@@ -1,0 +1,180 @@
+2021-08-02 11:30:54,067 [4] INFO  App  
+ Log system initialized 
+ 
+2021-08-02 11:30:54,094 [4] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-08-02 11:31:02,543 [9] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-08-02 11:31:44,353 [19] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 11:32:11,919 [23] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 11:32:38,069 [26] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 11:33:15,472 [30] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 11:39:28,780 [37] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 11:39:30,726 [37] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 11:39:35,957 [39] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 11:40:15,779 [37] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 11:40:32,272 [37] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 11:41:24,485 [46] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 11:42:40,012 [49] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 11:44:27,913 [56] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 11:44:45,842 [60] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 11:44:52,137 [58] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 11:45:14,145 [59] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 11:46:15,969 [67] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 11:46:22,125 [71] INFO  App  
+ Employee with ID 2 is Terminated 
+ 
+2021-08-02 11:47:27,010 [74] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 11:47:30,401 [76] INFO  App  
+ Employee with ID 1 is Terminated 
+ 
+2021-08-02 11:47:42,007 [80] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 11:48:13,134 [76] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 11:48:17,268 [86] INFO  App  
+ Employee with ID 2 is Terminated 
+ 
+2021-08-02 11:52:15,535 [34] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 11:52:38,466 [32] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 11:54:14,863 [27] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 11:55:08,149 [24] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 11:55:20,846 [79] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 11:57:26,745 [30] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 12:04:10,923 [36] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 12:04:10,923 [34] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 12:04:10,923 [9] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 12:04:10,938 [4] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 12:04:10,938 [5] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 12:04:10,970 [30] INFO  App  
+ Employee with ID 2 is Terminated 
+ 
+2021-08-02 13:45:06,778 [71] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 13:45:21,887 [71] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 13:45:25,562 [16] INFO  App  
+ Employee with ID 2 is Terminated 
+ 
+2021-08-02 13:52:41,845 [24] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 13:54:14,433 [33] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 13:56:13,046 [34] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 13:57:04,779 [70] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 13:57:44,145 [25] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 13:57:48,078 [26] INFO  App  
+ Employee with ID 9 is Terminated 
+ 
+2021-08-02 13:58:27,363 [28] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 14:05:31,388 [66] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 14:05:49,943 [64] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 14:07:00,842 [60] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-08-02 14:07:00,916 [61] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 14:07:26,668 [57] INFO  App  
+ new record succeffully added  Make  Das 
+ 
+2021-08-02 14:07:31,047 [56] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 14:07:45,141 [60] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 14:07:53,019 [57] INFO  App  
+ Employee with ID =18003, Data was accessed 
+ 
+2021-08-02 14:07:58,065 [57] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 14:08:00,318 [56] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 14:08:10,051 [56] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 14:08:17,646 [55] INFO  App  
+ Employees data accessed 
+ 
+2021-08-02 14:08:19,847 [56] INFO  App  
+ Employees data accessed 
+ 

@@ -1,0 +1,6 @@
+2021-07-30 13:42:10,276 [6] INFO  App  
+ Log system initialized 
+ 
+2021-07-30 13:42:10,287 [6] INFO  App  
+ Employees data accessed 
+ 

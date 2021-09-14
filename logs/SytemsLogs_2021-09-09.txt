@@ -1,0 +1,111 @@
+2021-09-09 15:29:12,868 [12] INFO  App  
+ Log system initialized 
+ 
+2021-09-09 15:29:15,612 [12] ERROR App  
+ Index was outside the bounds of the array. 
+ 
+2021-09-09 15:30:52,690 [24] INFO  App  
+ User's with Email = vuyo@gmail.com is reset key sent  
+ 
+2021-09-09 15:38:43,692 [30] INFO  App  
+ User's passsword with Email = vuyo@gmail.com  Changed  
+ 
+2021-09-09 15:39:06,143 [40] INFO  App  
+ User's with Email = vuyo@gmail.com is reset key sent  
+ 
+2021-09-09 15:39:24,267 [43] INFO  App  
+ User's passsword with Email = vuyo@gmail.com  Changed  
+ 
+2021-09-09 15:39:46,317 [40] INFO  App  
+ User's with Email = vuyo@gmail.com is reset key sent  
+ 
+2021-09-09 15:40:03,050 [40] ERROR App  
+ Index was outside the bounds of the array. 
+ 
+2021-09-09 15:40:52,966 [45] ERROR App  
+ Index was outside the bounds of the array. 
+ 
+2021-09-09 15:41:12,016 [46] ERROR App  
+ Index was outside the bounds of the array. 
+ 
+2021-09-09 15:41:41,836 [47] INFO  App  
+ User's with Email = vuyo@gmail.com is reset key sent  
+ 
+2021-09-09 15:42:13,440 [51] INFO  App  
+ User's with Email = vuyo@gmail.com is reset key sent  
+ 
+2021-09-09 15:42:48,103 [53] INFO  App  
+ User's with Email = vuyo@gmail.com is reset key sent  
+ 
+2021-09-09 15:42:54,690 [56] INFO  App  
+ User's with Email = vuyo@gmail.com is reset key sent  
+ 
+2021-09-09 16:03:36,463 [73] INFO  App  
+ User's with Email = vuyo@gmail.com is reset key sent  
+ 
+2021-09-09 16:03:36,491 [77] INFO  App  
+ User's with Email = vuyo@gmail.com is reset key sent  
+ 
+2021-09-09 16:03:36,551 [78] ERROR App  
+ Index was outside the bounds of the array. 
+ 
+2021-09-09 16:03:36,552 [70] INFO  App  
+ User's with Email = vuyo@gmail.com is reset key sent  
+ 
+2021-09-09 16:03:36,553 [76] INFO  App  
+ User's with Email = vuyo@gmail.com is reset key sent  
+ 
+2021-09-09 16:03:36,721 [69] ERROR App  
+ An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure()' to the 'UseSqlServer' call. 
+ 
+2021-09-09 16:04:41,514 [82] INFO  App  
+ User's with Email = vuyo@gmail.com is reset key sent  
+ 
+2021-09-09 16:05:06,570 [84] INFO  App  
+ User's passsword with Email = vuyo@gmail.com  Changed  
+ 
+2021-09-09 16:20:21,391 [5] INFO  App  
+ Log system initialized 
+ 
+2021-09-09 16:21:39,480 [18] INFO  App  
+ new user Added to the Sytem administration Rights name : admin, Email : admin@gmail.com 
+ 
+2021-09-09 16:21:54,873 [25] INFO  App  
+ new user Added to the Sytem administration Rights name : vuyo, Email : vuyo@gmail.com 
+ 
+2021-09-09 16:22:12,211 [18] ERROR App  
+ Data is Null. This method or property cannot be called on Null values. 
+ 
+2021-09-09 16:22:18,931 [24] ERROR App  
+ Data is Null. This method or property cannot be called on Null values. 
+ 
+2021-09-09 16:22:19,450 [18] ERROR App  
+ Data is Null. This method or property cannot be called on Null values. 
+ 
+2021-09-09 16:22:19,613 [27] ERROR App  
+ Data is Null. This method or property cannot be called on Null values. 
+ 
+2021-09-09 16:22:19,845 [25] ERROR App  
+ Data is Null. This method or property cannot be called on Null values. 
+ 
+2021-09-09 16:22:45,521 [29] ERROR App  
+ Data is Null. This method or property cannot be called on Null values. 
+ 
+2021-09-09 16:22:55,761 [33] ERROR App  
+ Data is Null. This method or property cannot be called on Null values. 
+ 
+2021-09-09 16:23:08,594 [33] ERROR App  
+ Data is Null. This method or property cannot be called on Null values. 
+ 
+2021-09-09 16:23:50,059 [29] ERROR App  
+ Data is Null. This method or property cannot be called on Null values. 
+ 
+2021-09-09 16:25:31,094 [37] ERROR App  
+ Data is Null. This method or property cannot be called on Null values. 
+ 
+2021-09-09 16:27:29,199 [4] INFO  App  
+ Log system initialized 
+ 
+2021-09-09 16:29:10,558 [20] INFO  App  
+ User's with Email = vuyo@gmail.com is reset key sent  
+ 

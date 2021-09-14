@@ -1,0 +1,225 @@
+2021-09-14 08:02:25,512 [13] INFO  App  
+ Log system initialized 
+ 
+2021-09-14 08:02:25,535 [13] INFO  App  
+ Admin/User with email = vuyo@gmailcom Accessed the Sytem 
+ 
+2021-09-14 08:02:37,601 [18] INFO  App  
+ Admin/User with email = vuyo@gmail.com Accessed the Sytem 
+ 
+2021-09-14 08:02:37,848 [18] INFO  App  
+ Employees data accessed 
+ 
+2021-09-14 08:03:46,638 [22] INFO  App  
+ Admin/User with email = vuyo@gmail.com Accessed the Sytem 
+ 
+2021-09-14 08:03:46,693 [22] INFO  App  
+ Employees data accessed 
+ 
+2021-09-14 08:04:11,907 [26] INFO  App  
+ Admin/User with email = vuyo@gmail.com Accessed the Sytem 
+ 
+2021-09-14 08:04:11,986 [30] INFO  App  
+ Employees data accessed 
+ 
+2021-09-14 08:04:16,819 [27] INFO  App  
+ Employees data accessed 
+ 
+2021-09-14 08:04:17,711 [31] INFO  App  
+ Employees data accessed 
+ 
+2021-09-14 08:04:21,231 [26] INFO  App  
+ Employees data accessed 
+ 
+2021-09-14 08:04:22,547 [28] INFO  App  
+ Employees data accessed 
+ 
+2021-09-14 08:04:24,274 [27] INFO  App  
+ Employees data accessed 
+ 
+2021-09-14 08:04:25,525 [31] INFO  App  
+ Employees data accessed 
+ 
+2021-09-14 08:04:29,276 [29] INFO  App  
+ Employees data accessed 
+ 
+2021-09-14 08:05:08,956 [27] INFO  App  
+ new record succeffully added  Mathanzima  Solatyi 
+ 
+2021-09-14 08:05:12,158 [30] INFO  App  
+ Employees data accessed 
+ 
+2021-09-14 08:06:35,002 [46] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-14 08:07:22,681 [56] INFO  App  
+ new user Added to the Sytem administration Rights name : Tester, Email : test@gmail.com 
+ 
+2021-09-14 08:07:53,474 [61] INFO  App  
+ User with ID = 1002 role is changed to 3 
+ 
+2021-09-14 08:08:18,374 [57] INFO  App  
+ Employees data accessed 
+ 
+2021-09-14 08:09:34,793 [71] INFO  App  
+ User's with Email = test@gmail.com is reset key sent  
+ 
+2021-09-14 08:09:44,577 [74] ERROR App  
+ Index was outside the bounds of the array. 
+ 
+2021-09-14 08:09:49,202 [74] INFO  App  
+ User's with Email = test@gmail.com is reset key sent  
+ 
+2021-09-14 08:11:20,328 [78] INFO  App  
+ User's with Email = vuyo@gmail.com is reset key sent  
+ 
+2021-09-14 08:12:31,215 [83] INFO  App  
+ User's passsword with Email = vuyo@gmail.com  Changed  
+ 
+2021-09-14 08:13:53,874 [87] INFO  App  
+ Admin/User with email = vuyo@gmail.com Accessed the Sytem 
+ 
+2021-09-14 08:13:53,935 [89] INFO  App  
+ Employees data accessed 
+ 
+2021-09-14 08:13:59,004 [92] INFO  App  
+ Employees data accessed 
+ 
+2021-09-14 08:14:00,578 [93] INFO  App  
+ Employees data accessed 
+ 
+2021-09-14 08:14:01,689 [93] INFO  App  
+ Employees data accessed 
+ 
+2021-09-14 08:14:03,116 [87] INFO  App  
+ Employees data accessed 
+ 
+2021-09-14 08:14:04,022 [87] INFO  App  
+ Employees data accessed 
+ 
+2021-09-14 08:14:25,187 [93] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-14 08:15:13,038 [99] INFO  App  
+ Employees data accessed 
+ 
+2021-09-14 08:15:32,746 [101] INFO  App  
+ Admin/User with email = test@gmail.com Accessed the Sytem 
+ 
+2021-09-14 08:15:53,329 [102] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-14 08:15:57,398 [109] INFO  App  
+ Employees data accessed 
+ 
+2021-09-14 08:44:51,452 [8] INFO  App  
+ Log system initialized 
+ 
+2021-09-14 08:44:51,481 [8] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-14 08:51:47,802 [26] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-14 08:51:53,434 [25] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-14 08:51:55,523 [25] INFO  App  
+ Employees data accessed 
+ 
+2021-09-14 08:52:44,805 [35] INFO  App  
+ Employees data accessed 
+ 
+2021-09-14 08:53:03,102 [40] INFO  App  
+ Employees data accessed 
+ 
+2021-09-14 08:53:09,117 [41] INFO  App  
+ Employees data accessed 
+ 
+2021-09-14 08:54:27,778 [52] INFO  App  
+ Employees data accessed 
+ 
+2021-09-14 08:57:11,978 [62] INFO  App  
+ Admin/User with email = ADMIN@GMAIL.COM Accessed the Sytem 
+ 
+2021-09-14 09:06:55,934 [116] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-14 09:09:07,501 [141] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-14 09:09:20,649 [141] INFO  App  
+ User with Id = 1002 is Deactivated  
+ 
+2021-09-14 09:13:05,207 [158] INFO  App  
+ Employees data accessed 
+ 
+2021-09-14 09:13:34,366 [166] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-14 09:15:13,875 [169] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-14 09:15:27,790 [166] INFO  App  
+ Admin/User with email = vuyo@gmail.com Accessed the Sytem 
+ 
+2021-09-14 09:15:27,839 [168] INFO  App  
+ Employees data accessed 
+ 
+2021-09-14 09:37:43,058 [156] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-14 13:08:57,146 [143] INFO  App  
+ Admin/User with email = vuyo@gmail.com Accessed the Sytem 
+ 
+2021-09-14 13:09:03,354 [143] INFO  App  
+ Admin/User with email = vuyo@gmail.com Accessed the Sytem 
+ 
+2021-09-14 13:09:03,417 [141] INFO  App  
+ Employees data accessed 
+ 
+2021-09-14 13:09:20,740 [142] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-14 13:09:55,785 [145] INFO  App  
+ new user Added to the Sytem administration Rights name : selile, Email : majozi@gmail.com 
+ 
+2021-09-14 13:09:58,776 [136] INFO  App  
+ new user Added to the Sytem administration Rights name : selile, Email : majozi@gmail.com 
+ 
+2021-09-14 13:19:00,137 [12] INFO  App  
+ Log system initialized 
+ 
+2021-09-14 13:19:12,043 [12] INFO  App  
+ new user Added to the Sytem administration Rights name : magala, Email : vuyo@gmail.com 
+ 
+2021-09-14 13:25:29,892 [4] INFO  App  
+ Log system initialized 
+ 
+2021-09-14 13:25:36,301 [4] INFO  App  
+ new user Added to the Sytem administration Rights name : magala, Email : vuyo@gmail.com 
+ 
+2021-09-14 13:26:24,658 [17] INFO  App  
+ new user Added to the Sytem administration Rights name : magala, Email : vuyo@gmail.com 
+ 
+2021-09-14 13:27:40,935 [9] INFO  App  
+ Log system initialized 
+ 
+2021-09-14 13:27:40,965 [9] INFO  App  
+ new user Added to the Sytem administration Rights name : magala, Email : vuyo@gmail.com 
+ 
+2021-09-14 13:28:55,466 [23] INFO  App  
+ new user Added to the Sytem administration Rights name : maliva, Email : vuyo@gmail.com 
+ 
+2021-09-14 13:29:31,301 [24] INFO  App  
+ new user Added to the Sytem administration Rights name : maliva, Email : vuyolwethu@gmail.com 
+ 
+2021-09-14 13:30:15,214 [24] ERROR App  
+ Object reference not set to an instance of an object. 
+ 
+2021-09-14 13:31:27,019 [12] INFO  App  
+ Log system initialized 
+ 
+2021-09-14 13:31:27,047 [12] INFO  App  
+ new user Added to the Sytem administration Rights name : maliva, Email : vuyolwethu@gmail.com 
+ 

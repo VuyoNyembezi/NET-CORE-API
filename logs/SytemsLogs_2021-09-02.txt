@@ -1,0 +1,296 @@
+2021-09-02 07:27:51,500 [4] INFO  App  
+ Log system initialized 
+ 
+2021-09-02 07:29:35,979 [4] INFO  App  
+ Log system initialized 
+ 
+2021-09-02 08:11:16,880 [24] INFO  App  
+ Employee with ID =5, Data was accessed 
+ 
+2021-09-02 08:27:12,870 [177] INFO  App  
+ Employee with ID =5, Data was accessed 
+ 
+2021-09-02 08:33:10,477 [203] INFO  App  
+ new user Added to the Sytem administration Rights name : Vonk, Email : vonk@gmail.com 
+ 
+2021-09-02 08:33:25,857 [212] INFO  App  
+ new user Added to the Sytem administration Rights name : Wok, Email : b@gmail.com 
+ 
+2021-09-02 08:33:38,941 [212] INFO  App  
+ new user Added to the Sytem administration Rights name : Test, Email : ed@gmail.com 
+ 
+2021-09-02 08:34:18,786 [203] INFO  App  
+ new user Added to the Sytem administration Rights name : free, Email : free@mail.com 
+ 
+2021-09-02 08:34:39,157 [218] INFO  App  
+ new user Added to the Sytem administration Rights name : freews, Email : frxe@mail.com 
+ 
+2021-09-02 08:50:35,325 [9] INFO  App  
+ Log system initialized 
+ 
+2021-09-02 08:51:06,363 [12] ERROR App  
+ The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_Users_Roles". The conflict occurred in database "Testing", table "dbo.Roles", column 'RoleId'.
+The statement has been terminated. 
+ 
+2021-09-02 08:51:56,269 [19] INFO  App  
+ User with Email =  role is changed 
+ 
+2021-09-02 08:53:08,723 [5] INFO  App  
+ Log system initialized 
+ 
+2021-09-02 08:53:14,527 [13] INFO  App  
+ User with Email =  role is changed 
+ 
+2021-09-02 09:10:37,490 [54] ERROR App  
+ The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_Users_Roles". The conflict occurred in database "Testing", table "dbo.Roles", column 'RoleId'.
+The statement has been terminated. 
+ 
+2021-09-02 09:15:04,616 [81] ERROR App  
+ The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_Users_Roles". The conflict occurred in database "Testing", table "dbo.Roles", column 'RoleId'.
+The statement has been terminated. 
+ 
+2021-09-02 09:15:59,933 [98] ERROR App  
+ The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_Users_Roles". The conflict occurred in database "Testing", table "dbo.Roles", column 'RoleId'.
+The statement has been terminated. 
+ 
+2021-09-02 09:18:46,379 [101] ERROR App  
+ The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_Users_Roles". The conflict occurred in database "Testing", table "dbo.Roles", column 'RoleId'.
+The statement has been terminated. 
+ 
+2021-09-02 09:19:33,421 [109] INFO  App  
+ User with Email =  role is changed 
+ 
+2021-09-02 09:19:51,631 [101] INFO  App  
+ User with Email =  role is changed 
+ 
+2021-09-02 09:20:51,503 [116] INFO  App  
+ User with Email =  role is changed 
+ 
+2021-09-02 09:36:29,365 [12] INFO  App  
+ Log system initialized 
+ 
+2021-09-02 09:47:15,887 [91] INFO  App  
+ User with Id = 1 is removed  
+ 
+2021-09-02 09:53:52,846 [133] INFO  App  
+ User with Id = 5006 is removed  
+ 
+2021-09-02 09:57:52,637 [142] INFO  App  
+ User with Id = 5003 is removed  
+ 
+2021-09-02 10:15:28,447 [114] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 10:15:56,315 [116] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 10:15:59,719 [114] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 10:16:04,446 [117] INFO  App  
+ Employee with ID =520, Data was accessed 
+ 
+2021-09-02 10:16:10,834 [114] INFO  App  
+ Employee with ID =520, Data was accessed 
+ 
+2021-09-02 10:16:15,083 [122] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 10:17:57,831 [111] INFO  App  
+ Admin/User with email = ed@gmail.com Accessed the Sytem 
+ 
+2021-09-02 10:19:22,028 [103] INFO  App  
+ new user Added to the Sytem administration Rights name : admin, Email : admin@gmail.com 
+ 
+2021-09-02 10:19:39,099 [97] INFO  App  
+ Admin/User with email = vonk@gmail.com Accessed the Sytem 
+ 
+2021-09-02 10:19:43,542 [97] INFO  App  
+ Admin/User with email = vonk@gmail.com Accessed the Sytem 
+ 
+2021-09-02 10:19:43,596 [103] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 10:19:52,968 [97] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 10:20:06,362 [97] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 10:20:08,230 [93] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 10:20:13,625 [95] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 10:20:18,267 [103] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 10:23:02,880 [92] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 11:58:06,514 [5] INFO  App  
+ Log system initialized 
+ 
+2021-09-02 11:58:32,787 [21] INFO  App  
+ Admin/User with email = ed@gmail.com Accessed the Sytem 
+ 
+2021-09-02 11:58:36,150 [26] INFO  App  
+ Admin/User with email = ed@gmail.com Accessed the Sytem 
+ 
+2021-09-02 11:58:51,611 [26] INFO  App  
+ Admin/User with email = ed@gmail.com Accessed the Sytem 
+ 
+2021-09-02 11:59:15,577 [28] INFO  App  
+ Admin/User with email = free@mail.com Accessed the Sytem 
+ 
+2021-09-02 11:59:15,649 [25] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 12:05:48,830 [34] INFO  App  
+ Admin/User with email = ed@gmail.com Accessed the Sytem 
+ 
+2021-09-02 12:06:17,131 [39] INFO  App  
+ Admin/User with email = ed@gmail.com Accessed the Sytem 
+ 
+2021-09-02 12:06:38,456 [37] INFO  App  
+ User with Email =  role is changed 
+ 
+2021-09-02 12:06:54,430 [42] INFO  App  
+ Admin/User with email = ed@gmail.com Accessed the Sytem 
+ 
+2021-09-02 12:07:11,190 [43] INFO  App  
+ User with Email =  role is changed 
+ 
+2021-09-02 13:11:10,744 [88] INFO  App  
+ Admin/User with email = vuyo@gmail.com Accessed the Sytem 
+ 
+2021-09-02 13:11:28,839 [86] INFO  App  
+ Admin/User with email = vonk@gmail.com Accessed the Sytem 
+ 
+2021-09-02 13:11:28,895 [86] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 13:11:31,004 [89] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 13:11:34,423 [85] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 13:11:35,818 [88] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 13:11:40,766 [85] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 13:11:44,592 [86] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 13:11:48,829 [82] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 13:11:51,016 [84] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 13:11:51,973 [84] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 13:12:00,566 [84] INFO  App  
+ Employee with ID 14008 is Terminated 
+ 
+2021-09-02 13:12:03,494 [89] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 13:12:05,210 [88] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 13:12:16,126 [84] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 13:12:17,107 [89] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 13:12:18,329 [81] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 13:12:19,443 [89] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 13:12:24,017 [88] INFO  App  
+ Employee with ID 5 is Terminated 
+ 
+2021-09-02 13:12:26,414 [82] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 13:12:29,450 [84] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 13:12:34,762 [89] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 13:12:36,161 [84] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 13:17:11,693 [77] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 13:17:17,430 [71] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 13:17:20,926 [76] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 13:17:22,488 [74] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 13:17:24,066 [76] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 13:17:25,414 [75] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 13:17:28,094 [76] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 13:17:32,647 [76] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 13:26:17,442 [55] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 16:10:21,547 [9] INFO  App  
+ Log system initialized 
+ 
+2021-09-02 16:10:21,555 [9] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 16:21:15,352 [5] INFO  App  
+ Log system initialized 
+ 
+2021-09-02 16:21:15,360 [5] INFO  App  
+ Employees data accessed 
+ 
+2021-09-02 16:23:49,007 [13] INFO  App  
+ Log system initialized 
+ 
+2021-09-02 16:25:48,235 [21] INFO  App  
+ User with Email =  role is changed to 3 
+ 
+2021-09-02 16:27:08,707 [4] INFO  App  
+ Log system initialized 
+ 
+2021-09-02 16:27:12,561 [15] INFO  App  
+ User with Email =  role is changed to 3 
+ 
+2021-09-02 16:28:59,010 [13] INFO  App  
+ Log system initialized 
+ 
+2021-09-02 16:29:02,221 [17] INFO  App  
+ User with Email = 5004 role is changed to 3 
+ 
+2021-09-02 16:29:35,252 [4] INFO  App  
+ Log system initialized 
+ 
+2021-09-02 16:29:39,133 [8] INFO  App  
+ User with ID = 5004 role is changed to 3 
+ 

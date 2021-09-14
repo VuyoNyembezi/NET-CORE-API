@@ -1,0 +1,489 @@
+2021-08-13 10:58:24,723 [8] INFO  App  
+ Log system initialized 
+ 
+2021-08-13 11:06:51,023 [13] INFO  App  
+ Log system initialized 
+ 
+2021-08-13 11:09:29,935 [5] INFO  App  
+ Log system initialized 
+ 
+2021-08-13 11:20:11,410 [5] INFO  App  
+ Log system initialized 
+ 
+2021-08-13 11:47:34,120 [122] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 11:55:22,426 [108] INFO  App  
+ new record succeffully added  vuyo  Nyembezi 
+ 
+2021-08-13 11:55:58,697 [101] INFO  App  
+ new record succeffully added  vuyo  Nyembezi 
+ 
+2021-08-13 12:04:15,227 [56] INFO  App  
+ new user Added to the Sytem administration name = , Email = aqzx@ilop.com 
+ 
+2021-08-13 12:06:24,834 [5] INFO  App  
+ Log system initialized 
+ 
+2021-08-13 12:06:24,861 [5] INFO  App  
+ new user Added to the Sytem administration name = sela, Email = aqzx@ilop.com 
+ 
+2021-08-13 12:15:12,574 [60] INFO  App  
+ new user Added to the Sytem administration name = sela, Email = aqzx@ilop.com 
+ 
+2021-08-13 12:15:25,101 [60] ERROR App  
+ Index was outside the bounds of the array. 
+ 
+2021-08-13 12:15:41,075 [67] INFO  App  
+ new user Added to the Sytem administration name = sela, Email = aqzx@ilop.com 
+ 
+2021-08-13 12:21:52,207 [90] INFO  App  
+ new user Added to the Sytem administration name = test, Email = mytest@gmail.com 
+ 
+2021-08-13 12:30:40,718 [13] INFO  App  
+ Log system initialized 
+ 
+2021-08-13 14:04:12,400 [4] INFO  App  
+ Log system initialized 
+ 
+2021-08-13 14:08:51,875 [4] INFO  App  
+ Log system initialized 
+ 
+2021-08-13 14:08:51,882 [4] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:09:40,131 [9] INFO  App  
+ Log system initialized 
+ 
+2021-08-13 14:09:40,139 [9] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:09:46,438 [9] INFO  App  
+ Employee with ID =2, Data was accessed 
+ 
+2021-08-13 14:22:10,940 [8] INFO  App  
+ Log system initialized 
+ 
+2021-08-13 14:22:10,949 [8] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:22:17,189 [13] INFO  App  
+ Employee with ID =2, Data was accessed 
+ 
+2021-08-13 14:25:10,238 [8] INFO  App  
+ Log system initialized 
+ 
+2021-08-13 14:25:10,249 [8] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:25:19,994 [5] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:25:45,517 [18] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:26:04,429 [18] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:26:09,825 [20] INFO  App  
+ Employee with ID =5, Data was accessed 
+ 
+2021-08-13 14:27:46,465 [28] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:27:51,174 [28] INFO  App  
+ Employee with ID =11, Data was accessed 
+ 
+2021-08-13 14:28:05,741 [33] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:28:28,832 [28] INFO  App  
+ Employee with ID =12, Data was accessed 
+ 
+2021-08-13 14:28:52,934 [34] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:30:21,283 [36] INFO  App  
+ Employee with ID =5, Data was accessed 
+ 
+2021-08-13 14:33:15,692 [36] INFO  App  
+ Employee with ID =5, Data was accessed 
+ 
+2021-08-13 14:33:15,734 [51] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:33:15,736 [49] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:33:15,755 [50] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:33:24,545 [53] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:34:19,980 [57] INFO  App  
+ No records were found when of ID =1 
+ 
+2021-08-13 14:34:33,333 [58] INFO  App  
+ Employee with ID =2, Data was accessed 
+ 
+2021-08-13 14:34:50,733 [59] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:35:10,191 [58] INFO  App  
+ Employee with ID =2, Data was accessed 
+ 
+2021-08-13 14:35:38,875 [59] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:45:25,397 [12] INFO  App  
+ Log system initialized 
+ 
+2021-08-13 14:45:25,824 [16] INFO  App  
+ Employee with ID =2, Data was accessed 
+ 
+2021-08-13 14:45:39,927 [12] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:46:03,123 [16] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:46:14,391 [24] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:46:18,527 [26] INFO  App  
+ Employee with ID =2, Data was accessed 
+ 
+2021-08-13 14:46:19,175 [22] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:46:29,693 [22] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:47:07,092 [30] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:47:38,930 [37] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:47:43,605 [39] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:47:52,383 [41] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:47:59,229 [39] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:49:55,546 [47] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:50:02,542 [50] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:51:19,237 [56] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:51:30,024 [54] INFO  App  
+ Employee with ID =2, Data was accessed 
+ 
+2021-08-13 14:52:40,816 [60] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:52:53,794 [62] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:53:08,742 [62] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:53:32,862 [61] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:54:02,229 [18] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:54:08,742 [12] INFO  App  
+ Employee with ID =2, Data was accessed 
+ 
+2021-08-13 14:56:33,806 [5] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:56:46,503 [67] INFO  App  
+ Employee with ID =2, Data was accessed 
+ 
+2021-08-13 14:56:57,838 [68] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:57:11,111 [66] INFO  App  
+ Employee with ID =2, Data was accessed 
+ 
+2021-08-13 14:57:29,710 [66] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 14:57:37,277 [71] INFO  App  
+ Employee with ID =2, Data was accessed 
+ 
+2021-08-13 14:57:56,957 [71] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:00:15,927 [75] INFO  App  
+ Employee with ID =2, Data was accessed 
+ 
+2021-08-13 15:03:00,332 [4] INFO  App  
+ Log system initialized 
+ 
+2021-08-13 15:03:00,343 [4] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:03:37,643 [15] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:03:48,483 [18] INFO  App  
+ Employee with ID =2, Data was accessed 
+ 
+2021-08-13 15:06:22,244 [8] INFO  App  
+ Log system initialized 
+ 
+2021-08-13 15:06:22,254 [8] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:06:26,556 [14] INFO  App  
+ Employee with ID =2, Data was accessed 
+ 
+2021-08-13 15:06:37,969 [4] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:06:41,548 [8] INFO  App  
+ Employee with ID =2, Data was accessed 
+ 
+2021-08-13 15:06:50,605 [12] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:06:57,683 [14] INFO  App  
+ Employee with ID =2000, Data was accessed 
+ 
+2021-08-13 15:07:05,599 [5] INFO  App  
+ Employee with ID =2, Data was accessed 
+ 
+2021-08-13 15:07:10,120 [8] INFO  App  
+ Employee with ID =200000, Data was accessed 
+ 
+2021-08-13 15:07:12,630 [14] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:08:09,698 [18] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:08:13,682 [21] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:08:22,983 [18] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:08:47,613 [23] INFO  App  
+ Employee with ID =2, Data was accessed 
+ 
+2021-08-13 15:08:59,491 [23] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:09:01,505 [27] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:09:49,764 [26] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:10:03,229 [31] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:10:15,596 [29] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:10:25,153 [31] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:10:35,445 [28] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:10:47,288 [29] INFO  App  
+ Employee with ID =1002, Data was accessed 
+ 
+2021-08-13 15:10:48,629 [26] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:10:51,914 [28] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:11:18,951 [34] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:11:44,320 [38] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:12:11,964 [43] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:12:37,080 [43] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:12:46,101 [52] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:12:48,371 [52] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:12:53,527 [50] INFO  App  
+ Employee with ID =1002, Data was accessed 
+ 
+2021-08-13 15:12:55,207 [52] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:13:00,026 [57] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:13:01,466 [53] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:13:02,816 [56] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:13:04,313 [53] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:13:17,422 [52] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:14:58,939 [58] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:15:12,157 [59] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:15:22,300 [64] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:15:23,149 [59] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:15:25,586 [61] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:15:42,822 [59] INFO  App  
+ Employee with ID =2007, Data was accessed 
+ 
+2021-08-13 15:15:45,637 [59] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:15:46,681 [61] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:15:48,184 [58] INFO  App  
+ Employees data accessed 
+ 
+2021-08-13 15:41:35,246 [8] INFO  App  
+ Log system initialized 
+ 
+2021-08-13 15:41:35,276 [8] INFO  App  
+ new user Added to the Sytem administration name = sela, Email = aqzx@ilop.com 
+ 
+2021-08-13 15:41:45,539 [4] INFO  App  
+ new user Added to the Sytem administration name = sela, Email = aqzx@ilop.com 
+ 
+2021-08-13 15:41:46,969 [5] INFO  App  
+ new user Added to the Sytem administration name = sela, Email = aqzx@ilop.com 
+ 
+2021-08-13 15:41:47,761 [8] INFO  App  
+ new user Added to the Sytem administration name = sela, Email = aqzx@ilop.com 
+ 
+2021-08-13 15:41:48,363 [4] INFO  App  
+ new user Added to the Sytem administration name = sela, Email = aqzx@ilop.com 
+ 
+2021-08-13 15:41:48,849 [17] INFO  App  
+ new user Added to the Sytem administration name = sela, Email = aqzx@ilop.com 
+ 
+2021-08-13 15:41:49,946 [16] INFO  App  
+ new user Added to the Sytem administration name = sela, Email = aqzx@ilop.com 
+ 
+2021-08-13 15:41:50,154 [16] ERROR App  
+ Index was outside the bounds of the array. 
+ 
+2021-08-13 15:41:50,561 [4] INFO  App  
+ new user Added to the Sytem administration name = sela, Email = aqzx@ilop.com 
+ 
+2021-08-13 15:41:51,607 [12] INFO  App  
+ new user Added to the Sytem administration name = sela, Email = aqzx@ilop.com 
+ 
+2021-08-13 15:41:52,344 [16] INFO  App  
+ new user Added to the Sytem administration name = sela, Email = aqzx@ilop.com 
+ 
+2021-08-13 15:41:53,019 [12] INFO  App  
+ new user Added to the Sytem administration name = sela, Email = aqzx@ilop.com 
+ 
+2021-08-13 15:41:53,629 [4] INFO  App  
+ new user Added to the Sytem administration name = sela, Email = aqzx@ilop.com 
+ 
+2021-08-13 15:41:54,490 [16] INFO  App  
+ new user Added to the Sytem administration name = sela, Email = aqzx@ilop.com 
+ 
+2021-08-13 15:41:55,163 [5] INFO  App  
+ new user Added to the Sytem administration name = sela, Email = aqzx@ilop.com 
+ 
+2021-08-13 15:41:56,555 [4] INFO  App  
+ new user Added to the Sytem administration name = sela, Email = aqzx@ilop.com 
+ 
+2021-08-13 15:41:57,028 [5] INFO  App  
+ new user Added to the Sytem administration name = sela, Email = aqzx@ilop.com 
+ 
+2021-08-13 15:41:57,836 [9] INFO  App  
+ new user Added to the Sytem administration name = sela, Email = aqzx@ilop.com 
+ 
+2021-08-13 15:41:58,709 [17] INFO  App  
+ new user Added to the Sytem administration name = sela, Email = aqzx@ilop.com 
+ 
+2021-08-13 15:41:59,243 [8] INFO  App  
+ new user Added to the Sytem administration name = sela, Email = aqzx@ilop.com 
+ 
+2021-08-13 15:42:03,951 [4] INFO  App  
+ new user Added to the Sytem administration name = sela, Email = aqzx@ilop.com 
+ 
+2021-08-13 15:43:30,328 [19] INFO  App  
+ new user Added to the Sytem administration name = sela, Email = aqzx@ilop.com 
+ 
+2021-08-13 15:43:38,014 [19] ERROR App  
+ Index was outside the bounds of the array. 
+ 
+2021-08-13 15:44:00,655 [22] INFO  App  
+ new user Added to the Sytem administration name = wedss, Email = aq@ilop.com 
+ 
+2021-08-13 15:49:12,017 [4] INFO  App  
+ Log system initialized 
+ 
+2021-08-13 15:49:12,045 [4] INFO  App  
+ new user Added to the Sytem administration name = wedss, Email = aaq@ilop.com 
+ 
+2021-08-13 15:49:21,959 [4] INFO  App  
+ new user Added to the Sytem administration name = wedss, Email = aaq@ilop.com 
+ 
+2021-08-13 15:49:26,017 [4] ERROR App  
+ Index was outside the bounds of the array. 
+ 
+2021-08-13 15:51:11,905 [30] INFO  App  
+ new user Added to the Sytem administration name = vuyo, Email = vuyo@gmail.com 
+ 
+2021-08-13 15:53:26,715 [46] INFO  App  
+ new user Added to the Sytem administration name = vuyo, Email = vuyo@gmail.com 
+ 
+2021-08-13 15:53:40,519 [52] INFO  App  
+ new user Added to the Sytem administration name = vuyo, Email = vuyo@gmail.com 
+ 
+2021-08-13 15:53:48,887 [46] INFO  App  
+ new user Added to the Sytem administration name = vuyo, Email = vuyo1@gmail.com 
+ 
+2021-08-13 15:53:48,887 [47] INFO  App  
+ new user Added to the Sytem administration name = vuyo, Email = vuyo1@gmail.com 
+ 
+2021-08-13 15:54:04,817 [53] INFO  App  
+ new user Added to the Sytem administration name = vuyo, Email = vuyo1@gmail.com 
+ 
+2021-08-13 15:54:57,793 [55] INFO  App  
+ new user Added to the Sytem administration name = tester, Email = tester@gmail.com 
+ 

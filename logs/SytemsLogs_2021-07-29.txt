@@ -1,0 +1,532 @@
+2021-07-29 08:32:39,046 [13] INFO  App  
+ Log system initialized 
+ 
+2021-07-29 08:32:39,056 [13] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 08:33:08,330 [22] ERROR App  
+ The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Employee_Gender". The conflict occurred in database "Testing", table "dbo.Gender", column 'GenderID'.
+The statement has been terminated. 
+ 
+2021-07-29 08:34:38,897 [27] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 08:35:27,651 [34] INFO  App  
+ new record succeffully added  TTTTES  DENCI 
+ 
+2021-07-29 08:38:17,277 [37] ERROR App  
+ The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Employee_Gender". The conflict occurred in database "Testing", table "dbo.Gender", column 'GenderID'.
+The statement has been terminated. 
+ 
+2021-07-29 08:43:15,890 [42] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 08:43:22,261 [47] INFO  App  
+ Employee with ID =12, Data was accessed 
+ 
+2021-07-29 08:45:10,032 [49] INFO  App  
+ Employee with ID =12, Data was accessed 
+ 
+2021-07-29 08:46:07,243 [52] INFO  App  
+ Employee with ID =12, Data was accessed 
+ 
+2021-07-29 08:49:07,370 [5] INFO  App  
+ Log system initialized 
+ 
+2021-07-29 08:49:07,379 [5] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 08:49:15,289 [4] ERROR App  
+ Cannot insert the value NULL into column 'Surname', table 'Testing.dbo.Employee'; column does not allow nulls. UPDATE fails.
+The statement has been terminated. 
+ 
+2021-07-29 08:49:33,725 [4] ERROR App  
+ Cannot insert the value NULL into column 'Surname', table 'Testing.dbo.Employee'; column does not allow nulls. UPDATE fails.
+The statement has been terminated. 
+ 
+2021-07-29 09:10:59,204 [4] INFO  App  
+ Log system initialized 
+ 
+2021-07-29 09:11:00,602 [4] INFO  App  
+ Employee with ID =1002, Data was accessed 
+ 
+2021-07-29 09:11:05,775 [4] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 09:11:55,809 [21] INFO  App  
+ Employee with ID 2 is Terminated 
+ 
+2021-07-29 12:53:13,135 [5] INFO  App  
+ Log system initialized 
+ 
+2021-07-29 12:53:13,145 [5] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 12:53:24,264 [5] INFO  App  
+ Employee with ID =2, Data was accessed 
+ 
+2021-07-29 13:11:21,381 [12] INFO  App  
+ Log system initialized 
+ 
+2021-07-29 13:11:21,410 [12] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-07-29 13:11:24,076 [15] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 13:11:33,408 [15] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 13:12:07,834 [23] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 13:12:16,572 [24] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 13:12:21,010 [26] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 13:13:56,697 [31] INFO  App  
+ Employee with ID =14008, Data was accessed 
+ 
+2021-07-29 13:14:06,941 [32] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 13:14:11,444 [31] INFO  App  
+ Employee with ID =14008, Data was accessed 
+ 
+2021-07-29 13:15:56,244 [42] INFO  App  
+ Employee with ID =222220, Data was accessed 
+ 
+2021-07-29 13:16:19,485 [40] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 13:16:39,439 [48] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 13:23:25,639 [43] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 13:24:09,497 [44] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 13:25:47,134 [36] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 13:31:23,532 [31] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-07-29 13:31:35,130 [26] INFO  App  
+ new user Added to the Sytem administration name = , Email =  
+ 
+2021-07-29 13:32:05,662 [25] INFO  App  
+ new user Added to the Sytem administration name = , Email =  
+ 
+2021-07-29 13:32:26,287 [23] INFO  App  
+ new user Added to the Sytem administration name = mbali, Email =  
+ 
+2021-07-29 13:33:39,413 [16] INFO  App  
+ new user Added to the Sytem administration name = Mbali, Email = Mbali@gmail.com 
+ 
+2021-07-29 13:37:32,043 [56] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-07-29 13:37:33,382 [55] INFO  App  
+ new user Added to the Sytem administration name = , Email =  
+ 
+2021-07-29 13:37:53,498 [54] INFO  App  
+ new user Added to the Sytem administration name = , Email =  
+ 
+2021-07-29 13:37:57,884 [14] INFO  App  
+ new user Added to the Sytem administration name = wa, Email =  
+ 
+2021-07-29 13:38:13,918 [15] INFO  App  
+ new user Added to the Sytem administration name = wa, Email = wa@gmail.com 
+ 
+2021-07-29 13:38:38,891 [16] INFO  App  
+ new user Added to the Sytem administration name = wa, Email = wa@gmail.com 
+ 
+2021-07-29 13:39:34,496 [22] INFO  App  
+ new user Added to the Sytem administration name = qa, Email =  
+ 
+2021-07-29 13:39:58,937 [26] INFO  App  
+ new user Added to the Sytem administration name = qa, Email = sq 
+ 
+2021-07-29 13:40:17,333 [24] INFO  App  
+ new user Added to the Sytem administration name = qa, Email = sq@gmail.com 
+ 
+2021-07-29 13:40:25,070 [26] INFO  App  
+ new user Added to the Sytem administration name = qa, Email = sq@gmail.com 
+ 
+2021-07-29 13:43:27,050 [35] INFO  App  
+ new user Added to the Sytem administration name = , Email =  
+ 
+2021-07-29 13:43:49,052 [33] INFO  App  
+ Admin with ID =  Accessed the Sytem 
+ 
+2021-07-29 13:44:00,734 [37] INFO  App  
+ Admin with ID =  Accessed the Sytem 
+ 
+2021-07-29 13:44:00,775 [36] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 13:44:24,088 [41] INFO  App  
+ Admin with ID =  Accessed the Sytem 
+ 
+2021-07-29 13:44:24,133 [42] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 13:45:24,470 [44] INFO  App  
+ Admin with ID =  Accessed the Sytem 
+ 
+2021-07-29 13:45:24,516 [39] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 13:46:01,566 [37] INFO  App  
+ Admin with ID =  Accessed the Sytem 
+ 
+2021-07-29 13:46:01,601 [34] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 13:46:57,906 [33] INFO  App  
+ Admin with ID =  Accessed the Sytem 
+ 
+2021-07-29 13:46:57,955 [29] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 13:47:52,069 [9] INFO  App  
+ Log system initialized 
+ 
+2021-07-29 13:47:52,082 [9] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 13:49:58,086 [18] INFO  App  
+ Admin with ID = abdc@gMAIL.com Accessed the Sytem 
+ 
+2021-07-29 13:50:36,847 [12] INFO  App  
+ Admin with ID =  Accessed the Sytem 
+ 
+2021-07-29 13:50:36,932 [9] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 13:51:55,333 [21] INFO  App  
+ Admin with ID =  Accessed the Sytem 
+ 
+2021-07-29 13:51:55,372 [22] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 13:52:06,388 [25] INFO  App  
+ Admin with ID =  Accessed the Sytem 
+ 
+2021-07-29 13:52:06,410 [23] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 13:52:40,489 [22] INFO  App  
+ Admin with ID =  Accessed the Sytem 
+ 
+2021-07-29 13:52:40,513 [23] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 13:53:03,676 [21] INFO  App  
+ Admin with ID =  Accessed the Sytem 
+ 
+2021-07-29 13:53:03,702 [23] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 13:54:42,291 [4] INFO  App  
+ Admin with ID = abdc@gMAIL.com Accessed the Sytem 
+ 
+2021-07-29 13:55:32,439 [13] INFO  App  
+ Admin with ID =  Accessed the Sytem 
+ 
+2021-07-29 13:55:51,397 [13] INFO  App  
+ new user Added to the Sytem administration name = testt, Email = test@gmail.com 
+ 
+2021-07-29 13:56:41,892 [36] INFO  App  
+ Admin with ID =  Accessed the Sytem 
+ 
+2021-07-29 13:56:41,923 [35] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 13:57:47,357 [13] INFO  App  
+ Admin with ID =  Accessed the Sytem 
+ 
+2021-07-29 13:57:47,378 [9] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 14:01:01,461 [20] INFO  App  
+ Admin with ID =  Accessed the Sytem 
+ 
+2021-07-29 14:01:06,874 [35] INFO  App  
+ Admin with ID =  Accessed the Sytem 
+ 
+2021-07-29 14:01:06,874 [4] INFO  App  
+ Admin with ID =  Accessed the Sytem 
+ 
+2021-07-29 14:01:22,569 [20] INFO  App  
+ Admin with ID =  Accessed the Sytem 
+ 
+2021-07-29 14:02:56,750 [18] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-07-29 14:09:23,520 [9] INFO  App  
+ Log system initialized 
+ 
+2021-07-29 14:09:23,542 [9] INFO  App  
+ Admin with ID =  Accessed the Sytem 
+ 
+2021-07-29 14:10:50,210 [15] INFO  App  
+ Admin with ID =  Accessed the Sytem 
+ 
+2021-07-29 14:11:41,184 [20] INFO  App  
+ Admin with ID = admdd@d.com Accessed the Sytem 
+ 
+2021-07-29 14:13:08,114 [26] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-07-29 14:14:01,748 [31] INFO  App  
+ new user Added to the Sytem administration name = test, Email = test@free.com 
+ 
+2021-07-29 14:15:22,212 [35] INFO  App  
+ new user Added to the Sytem administration name = DE, Email = d@d 
+ 
+2021-07-29 14:17:46,511 [40] INFO  App  
+ new user Added to the Sytem administration name = Free, Email = Free@fe.com 
+ 
+2021-07-29 14:34:06,683 [5] INFO  App  
+ Log system initialized 
+ 
+2021-07-29 14:34:11,198 [5] INFO  App  
+ new user Added to the Sytem administration name = t, Email = t@T 
+ 
+2021-07-29 14:35:54,472 [17] INFO  App  
+ new user Added to the Sytem administration name = dd, Email = D@s 
+ 
+2021-07-29 14:37:22,754 [9] INFO  App  
+ Log system initialized 
+ 
+2021-07-29 14:37:22,802 [9] INFO  App  
+ new user Added to the Sytem administration name = ted, Email = dd@D 
+ 
+2021-07-29 14:40:08,533 [15] INFO  App  
+ new user Added to the Sytem administration name = , Email = abdc@gMAIL.com 
+ 
+2021-07-29 14:42:41,737 [26] INFO  App  
+ new user Added to the Sytem administration name = , Email = abdc@gMAIL.com 
+ 
+2021-07-29 14:42:41,959 [26] ERROR App  
+ An error occurred while updating the entries. See the inner exception for details. 
+ 
+2021-07-29 14:44:48,629 [4] INFO  App  
+ Log system initialized 
+ 
+2021-07-29 14:44:53,245 [4] INFO  App  
+ new user Added to the Sytem administration name = , Email = abdc@gMAIL.com 
+ 
+2021-07-29 14:45:41,648 [4] INFO  App  
+ Log system initialized 
+ 
+2021-07-29 14:45:58,466 [4] INFO  App  
+ new user Added to the Sytem administration name = , Email = abdc@gMAIL.com 
+ 
+2021-07-29 14:45:59,795 [4] ERROR App  
+ An error occurred while updating the entries. See the inner exception for details. 
+ 
+2021-07-29 14:47:05,797 [13] INFO  App  
+ new user Added to the Sytem administration name = , Email = abdc@gMAIL.com 
+ 
+2021-07-29 14:47:05,971 [13] ERROR App  
+ An error occurred while updating the entries. See the inner exception for details. 
+ 
+2021-07-29 14:47:17,236 [17] INFO  App  
+ Admin with ID = abdc@gMAIL.com Accessed the Sytem 
+ 
+2021-07-29 14:47:25,898 [14] INFO  App  
+ Admin with ID = abdc@gMAIL.com Accessed the Sytem 
+ 
+2021-07-29 14:48:16,237 [22] INFO  App  
+ Admin with ID = abdc@gMAIL.com Accessed the Sytem 
+ 
+2021-07-29 14:49:40,758 [5] INFO  App  
+ Log system initialized 
+ 
+2021-07-29 14:49:42,926 [5] INFO  App  
+ new user Added to the Sytem administration name = , Email = abdc@gMAIL.com 
+ 
+2021-07-29 14:49:44,239 [5] ERROR App  
+ An error occurred while updating the entries. See the inner exception for details. 
+ 
+2021-07-29 14:50:42,230 [9] INFO  App  
+ Log system initialized 
+ 
+2021-07-29 14:50:45,673 [9] INFO  App  
+ new user Added to the Sytem administration name = , Email = abdc@gMAIL.com 
+ 
+2021-07-29 14:53:27,667 [6] INFO  App  
+ Log system initialized 
+ 
+2021-07-29 14:53:30,008 [6] INFO  App  
+ new user Added to the Sytem administration name = , Email = abdc@gMAIL.com 
+ 
+2021-07-29 14:53:31,849 [6] ERROR App  
+ An error occurred while updating the entries. See the inner exception for details. 
+ 
+2021-07-29 14:54:50,941 [14] INFO  App  
+ new user Added to the Sytem administration name = adim12, Email = admins@gMAIL.com 
+ 
+2021-07-29 14:55:11,083 [15] INFO  App  
+ new user Added to the Sytem administration name = adim12, Email = admins@gMAIL.com 
+ 
+2021-07-29 14:55:11,220 [15] ERROR App  
+ An error occurred while updating the entries. See the inner exception for details. 
+ 
+2021-07-29 14:57:06,389 [22] INFO  App  
+ new user Added to the Sytem administration name = Free, Email = free@f.com 
+ 
+2021-07-29 15:00:44,736 [28] INFO  App  
+ new user Added to the Sytem administration name = lu, Email = MK@g.com 
+ 
+2021-07-29 15:04:30,310 [33] INFO  App  
+ Admin with ID = admmm Accessed the Sytem 
+ 
+2021-07-29 15:04:34,649 [34] INFO  App  
+ Admin with ID = ww Accessed the Sytem 
+ 
+2021-07-29 15:09:02,700 [17] INFO  App  
+ Log system initialized 
+ 
+2021-07-29 15:09:02,725 [17] INFO  App  
+ new user Added to the Sytem administration name = QWE, Email = qwerty@gmail.com 
+ 
+2021-07-29 15:09:03,864 [23] INFO  App  
+ new user Added to the Sytem administration name = QWE, Email = qwerty@gmail.com 
+ 
+2021-07-29 15:09:20,379 [22] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-07-29 15:09:43,470 [28] INFO  App  
+ Admin with ID =  Accessed the Sytem 
+ 
+2021-07-29 15:10:05,768 [34] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-07-29 15:10:12,895 [32] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-07-29 15:10:12,949 [35] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 15:12:19,602 [8] INFO  App  
+ Admin with ID =  Accessed the Sytem 
+ 
+2021-07-29 15:14:32,207 [4] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-07-29 15:14:32,257 [38] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 15:16:15,166 [42] INFO  App  
+ new user Added to the Sytem administration name = qw, Email = qw@e 
+ 
+2021-07-29 15:18:36,975 [46] INFO  App  
+ new user Added to the Sytem administration name = , Email =  
+ 
+2021-07-29 15:19:05,583 [51] INFO  App  
+ new user Added to the Sytem administration name = , Email =  
+ 
+2021-07-29 15:19:24,505 [51] INFO  App  
+ new user Added to the Sytem administration name = , Email =  
+ 
+2021-07-29 15:20:09,551 [58] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-07-29 15:20:09,595 [58] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 15:21:25,288 [62] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-07-29 15:29:12,485 [66] INFO  App  
+ new user Added to the Sytem administration name = QEW, Email = WE@test.com 
+ 
+2021-07-29 15:30:06,617 [69] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-07-29 15:30:46,375 [71] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-07-29 15:32:16,908 [73] INFO  App  
+ Admin with ID =  Accessed the Sytem 
+ 
+2021-07-29 15:32:34,191 [75] INFO  App  
+ Admin with ID =  Accessed the Sytem 
+ 
+2021-07-29 15:32:59,538 [76] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-07-29 15:33:11,385 [73] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-07-29 15:33:11,439 [74] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 15:33:22,711 [73] INFO  App  
+ Admin with ID =  Accessed the Sytem 
+ 
+2021-07-29 15:33:29,176 [78] INFO  App  
+ Admin with ID =  Accessed the Sytem 
+ 
+2021-07-29 15:33:31,456 [76] INFO  App  
+ Admin with ID =  Accessed the Sytem 
+ 
+2021-07-29 15:35:29,614 [80] INFO  App  
+ Admin with ID =  Accessed the Sytem 
+ 
+2021-07-29 15:35:32,197 [83] INFO  App  
+ Admin with ID =  Accessed the Sytem 
+ 
+2021-07-29 15:36:44,078 [84] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-07-29 15:36:44,106 [87] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 15:37:31,762 [35] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-07-29 15:38:06,129 [32] INFO  App  
+ Admin with ID = jtr@gmail.com Accessed the Sytem 
+ 
+2021-07-29 15:40:14,806 [30] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-07-29 15:40:14,845 [33] INFO  App  
+ Employees data accessed 
+ 
+2021-07-29 15:41:09,001 [27] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-07-29 15:41:15,654 [30] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-07-29 15:41:22,990 [24] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-07-29 15:41:43,388 [23] INFO  App  
+ new user Added to the Sytem administration name = Test, Email = wqa 
+ 
+2021-07-29 15:42:52,795 [19] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-07-29 15:43:22,050 [18] INFO  App  
+ new user Added to the Sytem administration name = Test2, Email = test@free.com 
+ 
+2021-07-29 15:48:07,464 [15] INFO  App  
+ new user Added to the Sytem administration name = NewA, Email = newadmin@gmail.com 
+ 
+2021-07-29 15:48:38,458 [93] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-07-29 15:48:38,509 [94] INFO  App  
+ Employees data accessed 
+ 

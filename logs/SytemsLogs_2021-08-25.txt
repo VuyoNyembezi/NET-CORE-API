@@ -1,0 +1,21 @@
+2021-08-25 15:02:01,821 [4] INFO  App  
+ Log system initialized 
+ 
+2021-08-25 15:02:01,829 [4] INFO  App  
+ Employees data accessed 
+ 
+2021-08-25 15:02:07,680 [9] INFO  App  
+ Employee with ID =2, Data was accessed 
+ 
+2021-08-25 15:04:08,654 [4] INFO  App  
+ Log system initialized 
+ 
+2021-08-25 15:04:08,662 [4] INFO  App  
+ Employees data accessed 
+ 
+2021-08-25 15:49:19,691 [9] INFO  App  
+ Log system initialized 
+ 
+2021-08-25 15:49:19,699 [9] INFO  App  
+ Employees data accessed 
+ 

@@ -1,0 +1,459 @@
+2021-08-05 08:05:08,810 [12] INFO  App  
+ Log system initialized 
+ 
+2021-08-05 08:05:08,818 [12] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:19:29,201 [13] INFO  App  
+ Log system initialized 
+ 
+2021-08-05 08:19:29,213 [13] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:20:08,939 [25] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:20:25,523 [27] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:21:03,058 [8] INFO  App  
+ Log system initialized 
+ 
+2021-08-05 08:21:03,067 [8] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:21:21,801 [9] INFO  App  
+ new record succeffully added  Gel  Test 
+ 
+2021-08-05 08:21:28,261 [12] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:21:34,690 [9] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:21:35,433 [5] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:22:00,650 [8] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:22:04,064 [12] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:22:24,293 [4] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:22:36,467 [19] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:22:42,429 [5] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:22:46,093 [12] INFO  App  
+ Employee with ID 2 is Terminated 
+ 
+2021-08-05 08:22:50,160 [12] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:23:46,624 [23] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:23:52,194 [23] INFO  App  
+ Employee with ID 27002 is Terminated 
+ 
+2021-08-05 08:23:54,582 [30] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:24:03,449 [23] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:24:11,022 [24] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:24:14,571 [30] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:30:02,672 [32] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:30:04,203 [38] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:30:49,008 [41] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:30:54,292 [44] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:30:55,699 [43] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:30:56,528 [41] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:30:57,451 [45] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:31:32,195 [41] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:31:34,186 [50] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:31:36,146 [48] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:32:06,316 [54] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:32:09,242 [56] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:32:11,976 [56] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:32:13,779 [60] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:35:53,355 [64] INFO  App  
+ new record succeffully added  Vuyo  Nyembezi 
+ 
+2021-08-05 08:36:38,159 [72] INFO  App  
+ new record succeffully added  Seni  Mayisa 
+ 
+2021-08-05 08:40:08,646 [78] INFO  App  
+ new record succeffully added  Free  Sayihn 
+ 
+2021-08-05 08:40:30,223 [81] INFO  App  
+ new record succeffully added  Free  Sayihn 
+ 
+2021-08-05 08:41:31,400 [87] INFO  App  
+ new record succeffully added  Blaike  Marntin 
+ 
+2021-08-05 08:42:12,482 [95] INFO  App  
+ new record succeffully added  Blaike  Marntin 
+ 
+2021-08-05 08:44:26,957 [103] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:47:01,229 [108] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:51:18,609 [118] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:57:58,495 [118] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:58:21,109 [119] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:58:25,828 [116] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:58:44,493 [116] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:58:48,949 [110] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:59:09,107 [116] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:59:10,560 [106] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:59:14,388 [106] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:59:21,331 [116] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:59:24,588 [108] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:59:35,465 [106] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 08:59:39,372 [108] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 09:01:59,767 [103] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 09:02:49,293 [97] INFO  App  
+ new user Added to the Sytem administration name = tester, Email = test@gmail.com 
+ 
+2021-08-05 10:34:30,748 [91] INFO  App  
+ new record succeffully added  Majozi  DESWA 
+ 
+2021-08-05 10:34:38,098 [91] INFO  App  
+ new record succeffully added  Majozi  DESWA 
+ 
+2021-08-05 10:50:22,703 [79] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 10:50:42,640 [75] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 10:50:42,657 [78] INFO  App  
+ new record succeffully added  Majozi  DESWA 
+ 
+2021-08-05 10:53:33,717 [72] INFO  App  
+ new record succeffully added  AWQ  WWASE 
+ 
+2021-08-05 10:54:33,023 [69] INFO  App  
+ new record succeffully added  Vuyo  Jones 
+ 
+2021-08-05 10:55:33,189 [67] INFO  App  
+ new record succeffully added  Test  Jayisa 
+ 
+2021-08-05 10:56:57,022 [61] INFO  App  
+ new record succeffully added  Vuyo  Vakalisa 
+ 
+2021-08-05 10:59:16,278 [56] INFO  App  
+ new record succeffully added  Mali  Smith 
+ 
+2021-08-05 11:09:54,526 [52] INFO  App  
+ Employees data accessed 
+ 
+2021-08-05 11:11:34,341 [49] INFO  App  
+ new record succeffully added  Nomonde  Jones 
+ 
+2021-08-05 11:11:39,336 [48] INFO  App  
+ new record succeffully added  Nomonde  Jones 
+ 
+2021-08-05 11:12:24,755 [48] INFO  App  
+ new record succeffully added  Nomonde  Jones 
+ 
+2021-08-05 11:13:00,452 [49] INFO  App  
+ new record succeffully added  Nomonde  Jones 
+ 
+2021-08-05 11:17:41,366 [57] INFO  App  
+ new record succeffully added  Melisa  Vakalisa 
+ 
+2021-08-05 11:18:30,560 [59] INFO  App  
+ new record succeffully added  Melisa  Vakalisa 
+ 
+2021-08-05 11:28:23,872 [69] INFO  App  
+ new record succeffully added  Mali  Jayisa 
+ 
+2021-08-05 11:28:24,140 [66] INFO  App  
+ new record succeffully added  Mali  Jayisa 
+ 
+2021-08-05 11:28:24,152 [70] INFO  App  
+ new record succeffully added  Mali  Jayisa 
+ 
+2021-08-05 11:28:24,153 [76] INFO  App  
+ new record succeffully added  Mali  Jayisa 
+ 
+2021-08-05 11:28:24,155 [66] INFO  App  
+ new record succeffully added  Mali  Jayisa 
+ 
+2021-08-05 11:28:24,159 [70] INFO  App  
+ new record succeffully added  Mali  Jayisa 
+ 
+2021-08-05 11:28:24,160 [73] INFO  App  
+ new record succeffully added  Mali  Jayisa 
+ 
+2021-08-05 11:28:24,163 [74] INFO  App  
+ new record succeffully added  Mali  Jayisa 
+ 
+2021-08-05 11:28:24,161 [76] INFO  App  
+ new record succeffully added  Mali  Jayisa 
+ 
+2021-08-05 11:28:24,169 [71] INFO  App  
+ new record succeffully added  Mali  Jayisa 
+ 
+2021-08-05 11:28:24,166 [66] INFO  App  
+ new record succeffully added  Mali  Jayisa 
+ 
+2021-08-05 11:28:24,169 [70] INFO  App  
+ new record succeffully added  Mali  Jayisa 
+ 
+2021-08-05 11:28:24,181 [72] INFO  App  
+ new record succeffully added  Mali  Jayisa 
+ 
+2021-08-05 11:28:24,184 [66] INFO  App  
+ new record succeffully added  Mali  Jayisa 
+ 
+2021-08-05 11:28:24,186 [70] INFO  App  
+ new record succeffully added  Jojo  Jambo 
+ 
+2021-08-05 11:28:24,179 [73] INFO  App  
+ new record succeffully added  Mali  Jayisa 
+ 
+2021-08-05 11:28:24,190 [71] INFO  App  
+ new record succeffully added  Mali  Jayisa 
+ 
+2021-08-05 11:28:24,193 [70] INFO  App  
+ new record succeffully added  Jojo  Jambo 
+ 
+2021-08-05 11:28:24,194 [72] INFO  App  
+ new record succeffully added  Jojo  Jambo 
+ 
+2021-08-05 11:28:24,197 [66] INFO  App  
+ new record succeffully added  Jojo  Jambo 
+ 
+2021-08-05 11:28:24,202 [73] INFO  App  
+ new record succeffully added  Jojo  Jambo 
+ 
+2021-08-05 11:28:24,204 [66] INFO  App  
+ new record succeffully added  Jojo  Jambo 
+ 
+2021-08-05 11:28:24,275 [72] INFO  App  
+ new record succeffully added  Jojo  Jambo 
+ 
+2021-08-05 11:28:24,199 [69] INFO  App  
+ new record succeffully added  Jojo  Jambo 
+ 
+2021-08-05 11:28:24,282 [73] INFO  App  
+ new record succeffully added  Jojo  Jambo 
+ 
+2021-08-05 11:28:24,288 [71] INFO  App  
+ new record succeffully added  Jojo  Jambo 
+ 
+2021-08-05 11:28:24,286 [72] INFO  App  
+ new record succeffully added  Jojo  Jambo 
+ 
+2021-08-05 11:28:24,293 [70] INFO  App  
+ new record succeffully added  Jojo  Jambo 
+ 
+2021-08-05 11:28:24,295 [66] INFO  App  
+ new record succeffully added  Nomonde  Vakalisa 
+ 
+2021-08-05 11:28:24,293 [71] INFO  App  
+ new record succeffully added  Jojo  Jambo 
+ 
+2021-08-05 11:28:24,321 [66] INFO  App  
+ new record succeffully added  Nomonde  Vakalisa 
+ 
+2021-08-05 11:28:24,301 [70] INFO  App  
+ new record succeffully added  Nomonde  Vakalisa 
+ 
+2021-08-05 11:28:24,357 [72] INFO  App  
+ new record succeffully added  Nomonde  Vakalisa 
+ 
+2021-08-05 11:28:24,325 [73] INFO  App  
+ new record succeffully added  Nomonde  Vakalisa 
+ 
+2021-08-05 11:28:24,174 [74] INFO  App  
+ new record succeffully added  Mali  Jayisa 
+ 
+2021-08-05 11:28:24,179 [76] INFO  App  
+ new record succeffully added  Mali  Jayisa 
+ 
+2021-08-05 11:34:10,308 [81] INFO  App  
+ new record succeffully added  test  new 
+ 
+2021-08-05 11:38:34,303 [88] INFO  App  
+ new record succeffully added  Test  Vakalisa 
+ 
+2021-08-05 11:38:46,277 [88] INFO  App  
+ new record succeffully added  Test  Vakalisa 
+ 
+2021-08-05 11:38:47,584 [83] INFO  App  
+ new record succeffully added  Test  Vakalisa 
+ 
+2021-08-05 11:38:54,228 [87] INFO  App  
+ new record succeffully added  Test  Vakalisa 
+ 
+2021-08-05 11:38:54,591 [88] INFO  App  
+ new record succeffully added  Test  Vakalisa 
+ 
+2021-08-05 11:38:54,751 [95] INFO  App  
+ new record succeffully added  Test  Vakalisa 
+ 
+2021-08-05 11:38:55,007 [89] INFO  App  
+ new record succeffully added  Test  Vakalisa 
+ 
+2021-08-05 11:38:55,175 [87] INFO  App  
+ new record succeffully added  Test  Vakalisa 
+ 
+2021-08-05 11:38:55,375 [89] INFO  App  
+ new record succeffully added  Test  Vakalisa 
+ 
+2021-08-05 11:38:55,791 [95] INFO  App  
+ new record succeffully added  Test  Vakalisa 
+ 
+2021-08-05 11:38:56,014 [89] INFO  App  
+ new record succeffully added  Test  Vakalisa 
+ 
+2021-08-05 11:38:56,183 [88] INFO  App  
+ new record succeffully added  Test  Vakalisa 
+ 
+2021-08-05 11:38:56,455 [89] INFO  App  
+ new record succeffully added  Test  Vakalisa 
+ 
+2021-08-05 11:38:56,738 [83] INFO  App  
+ new record succeffully added  Test  Vakalisa 
+ 
+2021-08-05 11:38:56,855 [88] INFO  App  
+ new record succeffully added  Test  Vakalisa 
+ 
+2021-08-05 11:39:07,931 [89] INFO  App  
+ new record succeffully added  Te  Vakali 
+ 
+2021-08-05 11:39:10,528 [88] INFO  App  
+ new record succeffully added  Te  Vakali 
+ 
+2021-08-05 11:39:13,474 [90] INFO  App  
+ new record succeffully added  Te  Vakali 
+ 
+2021-08-05 11:39:13,670 [83] INFO  App  
+ new record succeffully added  Te  Vakali 
+ 
+2021-08-05 11:39:13,823 [90] INFO  App  
+ new record succeffully added  Te  Vakali 
+ 
+2021-08-05 11:39:13,983 [89] INFO  App  
+ new record succeffully added  Te  Vakali 
+ 
+2021-08-05 11:39:14,175 [87] INFO  App  
+ new record succeffully added  Te  Vakali 
+ 
+2021-08-05 11:39:14,375 [83] INFO  App  
+ new record succeffully added  Te  Vakali 
+ 
+2021-08-05 11:39:14,560 [90] INFO  App  
+ new record succeffully added  Te  Vakali 
+ 
+2021-08-05 11:39:14,751 [87] INFO  App  
+ new record succeffully added  Te  Vakali 
+ 
+2021-08-05 11:39:14,903 [95] INFO  App  
+ new record succeffully added  Te  Vakali 
+ 
+2021-08-05 11:39:15,079 [89] INFO  App  
+ new record succeffully added  Te  Vakali 
+ 
+2021-08-05 11:39:15,303 [83] INFO  App  
+ new record succeffully added  Te  Vakali 
+ 
+2021-08-05 11:39:15,616 [87] INFO  App  
+ new record succeffully added  Te  Vakali 
+ 
+2021-08-05 11:39:15,934 [83] INFO  App  
+ new record succeffully added  Te  Vakali 
+ 
+2021-08-05 11:39:16,150 [88] INFO  App  
+ new record succeffully added  Te  Vakali 
+ 
+2021-08-05 11:39:16,343 [83] INFO  App  
+ new record succeffully added  Te  Vakali 
+ 
+2021-08-05 11:39:16,527 [83] INFO  App  
+ new record succeffully added  Te  Vakali 
+ 
+2021-08-05 11:39:16,703 [95] INFO  App  
+ new record succeffully added  Te  Vakali 
+ 
+2021-08-05 11:39:16,944 [83] INFO  App  
+ new record succeffully added  Te  Vakali 
+ 
+2021-08-05 11:39:17,119 [83] INFO  App  
+ new record succeffully added  Te  Vakali 
+ 
+2021-08-05 11:40:44,948 [94] INFO  App  
+ new record succeffully added  Vuyo  Jambo 
+ 

@@ -1,0 +1,709 @@
+2021-08-11 09:49:49,832 [12] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 09:50:18,618 [5] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 09:51:19,567 [13] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 09:51:32,578 [13] ERROR App  
+ Cannot insert the value NULL into column 'VerificationCode', table 'Testing.dbo.Users'; column does not allow nulls. INSERT fails.
+The statement has been terminated. 
+ 
+2021-08-11 09:54:38,447 [22] ERROR App  
+ Cannot insert the value NULL into column 'VerificationCode', table 'Testing.dbo.Users'; column does not allow nulls. INSERT fails.
+The statement has been terminated. 
+ 
+2021-08-11 09:55:13,604 [4] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 09:55:16,268 [12] ERROR App  
+ Cannot insert the value NULL into column 'VerificationCode', table 'Testing.dbo.Users'; column does not allow nulls. INSERT fails.
+The statement has been terminated. 
+ 
+2021-08-11 10:03:20,080 [8] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 10:03:48,106 [5] ERROR App  
+ Cannot insert the value NULL into column 'VerificationCode', table 'Testing.dbo.Users'; column does not allow nulls. INSERT fails.
+The statement has been terminated. 
+ 
+2021-08-11 10:05:29,523 [9] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 10:05:51,018 [9] ERROR App  
+ Index was outside the bounds of the array. 
+ 
+2021-08-11 10:08:41,797 [5] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 10:17:36,534 [5] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 10:25:17,830 [5] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 10:26:12,102 [5] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 10:27:10,468 [8] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 10:27:43,883 [4] INFO  App  
+ new record succeffully added  admin@gmail.com  magwaza 
+ 
+2021-08-11 10:36:14,413 [13] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 10:36:33,730 [9] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 10:42:09,761 [8] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 10:43:07,516 [7] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 10:43:34,846 [8] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 10:43:59,260 [4] INFO  App  
+ new record succeffully added  admin@gmail.com   
+ 
+2021-08-11 10:55:09,692 [18] ERROR App  
+ Index was outside the bounds of the array. 
+ 
+2021-08-11 10:55:40,070 [23] INFO  App  
+ new record succeffully added  admin@gmail.com   
+ 
+2021-08-11 11:18:19,964 [13] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 11:18:54,875 [16] ERROR App  
+ Procedure or function 'UserLogin' expects parameter '@Passowrd', which was not supplied. 
+ 
+2021-08-11 11:20:12,965 [9] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 11:21:01,308 [8] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 11:27:59,890 [12] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 11:29:37,826 [17] ERROR App  
+ Procedure or function 'UserLogin' expects parameter '@Passowrd', which was not supplied. 
+ 
+2021-08-11 11:42:00,367 [12] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 11:42:09,158 [12] ERROR App  
+ String reference not set to an instance of a String. (Parameter 's') 
+ 
+2021-08-11 12:07:19,990 [4] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 12:09:19,181 [4] ERROR App  
+ String reference not set to an instance of a String. (Parameter 's') 
+ 
+2021-08-11 12:12:47,503 [5] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 12:13:24,140 [5] ERROR App  
+ String reference not set to an instance of a String. (Parameter 's') 
+ 
+2021-08-11 12:14:33,620 [9] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 12:15:23,085 [7] INFO  App  
+ system accessed by  admin@gmail.com   
+ 
+2021-08-11 12:26:16,348 [13] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 12:26:40,647 [18] INFO  App  
+ system accessed by  admin@gmail.com   
+ 
+2021-08-11 12:48:02,068 [13] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 12:48:44,919 [5] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 12:49:36,006 [9] INFO  App  
+ system accessed by  admin@gmail.com   
+ 
+2021-08-11 12:53:17,159 [20] INFO  App  
+ new record succeffully added  mali@gmail.com   
+ 
+2021-08-11 12:55:16,595 [23] INFO  App  
+ system accessed by  admin@gmail.com   
+ 
+2021-08-11 12:55:56,939 [26] INFO  App  
+ system accessed by  admin@gmail.com   
+ 
+2021-08-11 12:55:56,940 [25] INFO  App  
+ system accessed by  admin@gmail.com   
+ 
+2021-08-11 12:55:56,947 [23] INFO  App  
+ system accessed by  admin@gmail.com   
+ 
+2021-08-11 12:56:08,360 [23] INFO  App  
+ system accessed by  admin@gmail.com   
+ 
+2021-08-11 12:56:22,742 [33] INFO  App  
+ system accessed by  admin@gmail.com   
+ 
+2021-08-11 12:56:50,338 [36] INFO  App  
+ system accessed by  admin@gmail.com   
+ 
+2021-08-11 12:59:40,576 [44] INFO  App  
+ system accessed by  admin@gmail.com   
+ 
+2021-08-11 13:04:48,201 [63] INFO  App  
+ system accessed by  admin@gmail.com   
+ 
+2021-08-11 13:05:11,505 [68] INFO  App  
+ system accessed by  admin@gmail.com   
+ 
+2021-08-11 13:05:18,585 [61] INFO  App  
+ system accessed by  admin@gmail.com   
+ 
+2021-08-11 13:06:36,251 [73] INFO  App  
+ system accessed by  admin@gmail.com   
+ 
+2021-08-11 13:07:46,250 [77] INFO  App  
+ system accessed by  admin@gmail.com   
+ 
+2021-08-11 13:08:54,623 [83] INFO  App  
+ system accessed by  admin@gmail.com   
+ 
+2021-08-11 13:48:02,185 [4] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 13:48:30,798 [9] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 13:48:41,195 [15] INFO  App  
+ system accessed by  admin@gmail.com   
+ 
+2021-08-11 14:01:50,990 [22] INFO  App  
+ system accessed by  admin@gmail.com   
+ 
+2021-08-11 14:03:57,079 [26] INFO  App  
+ system accessed by  admin@gmail.com   
+ 
+2021-08-11 14:03:57,135 [27] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 14:04:07,611 [27] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 14:04:45,319 [26] INFO  App  
+ system accessed by  admin@gmail.com   
+ 
+2021-08-11 14:05:06,471 [26] INFO  App  
+ system accessed by  admin@gmail.com   
+ 
+2021-08-11 14:05:06,508 [37] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 14:05:50,170 [38] INFO  App  
+ system accessed by  admin@gmail.com   
+ 
+2021-08-11 14:05:50,196 [43] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 14:06:17,569 [39] INFO  App  
+ system accessed by  admin@gmail.com   
+ 
+2021-08-11 14:06:17,595 [48] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 14:08:36,645 [52] ERROR App  
+ Object reference not set to an instance of an object. 
+ 
+2021-08-11 14:08:36,645 [53] ERROR App  
+ Object reference not set to an instance of an object. 
+ 
+2021-08-11 14:12:11,485 [12] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 14:12:33,105 [18] INFO  App  
+ system accessed by  admin@gmail.com   
+ 
+2021-08-11 14:26:34,869 [4] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 14:29:28,013 [4] INFO  App  
+ system accessed by  admin@gmail.com   
+ 
+2021-08-11 14:42:38,309 [24] INFO  App  
+ system accessed by  admin@gmail.com   
+ 
+2021-08-11 14:43:54,412 [29] INFO  App  
+ system accessed by  mali@gmail.com   
+ 
+2021-08-11 14:44:00,663 [30] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 14:44:33,186 [33] INFO  App  
+ system accessed by  mali@gmail.com   
+ 
+2021-08-11 14:44:33,233 [37] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 14:45:18,149 [41] INFO  App  
+ system accessed by  ASX@WS   
+ 
+2021-08-11 14:46:39,602 [40] INFO  App  
+ system accessed by  mali@gmail.com   
+ 
+2021-08-11 14:47:19,339 [51] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 14:47:19,749 [41] INFO  App  
+ system accessed by  mali@gmail.com   
+ 
+2021-08-11 15:23:15,215 [4] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 15:23:15,224 [4] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:24:26,298 [4] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 15:24:26,310 [4] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:24:42,201 [4] INFO  App  
+ Employee with ID =2005, Data was accessed 
+ 
+2021-08-11 15:25:30,133 [9] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 15:25:30,144 [9] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:27:26,795 [13] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:27:36,639 [18] INFO  App  
+ Employee with ID =1002, Data was accessed 
+ 
+2021-08-11 15:30:39,051 [5] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 15:30:39,071 [5] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:30:46,438 [4] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:30:53,912 [4] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:31:01,978 [5] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:31:25,554 [4] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 15:31:25,565 [4] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:31:51,661 [15] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:31:55,702 [15] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:32:58,728 [21] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:33:07,114 [24] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:34:08,989 [26] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:34:25,554 [31] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:34:33,939 [29] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:34:38,840 [26] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:35:06,428 [33] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:35:23,503 [35] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:35:34,212 [36] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:35:39,860 [35] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:35:40,842 [39] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:36:17,946 [40] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:36:41,064 [40] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:36:58,466 [45] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:37:08,271 [47] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:37:30,224 [45] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:37:52,226 [55] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:38:06,654 [55] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:38:54,934 [9] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 15:38:54,943 [9] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:38:58,512 [4] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:38:59,000 [5] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:38:59,425 [4] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:38:59,634 [9] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:00,135 [5] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:00,346 [4] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:00,561 [8] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:00,821 [4] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:00,985 [5] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:01,140 [4] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:02,041 [9] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:02,235 [13] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:02,485 [12] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:02,652 [9] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:03,075 [13] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:03,303 [12] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:03,450 [5] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:03,599 [14] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:03,938 [5] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:04,153 [8] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:04,307 [4] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:04,483 [5] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:04,721 [8] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:04,962 [4] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:05,144 [8] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:05,387 [8] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:05,587 [4] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:05,787 [5] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:06,009 [5] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:06,206 [5] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:20,273 [4] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:39:23,094 [14] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:23,538 [4] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:23,681 [5] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:23,967 [4] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:24,257 [5] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:24,411 [4] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:24,555 [5] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:24,839 [4] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:25,166 [8] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:25,583 [4] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:25,911 [9] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:26,321 [4] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:26,544 [5] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:26,738 [4] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:27,004 [5] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:38,659 [5] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:39,092 [13] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:39,237 [5] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:39,573 [8] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:39:39,861 [5] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:40:02,045 [22] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:40:07,461 [25] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:40:12,007 [25] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:41:19,570 [8] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 15:41:19,580 [8] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:41:22,066 [8] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:41:23,785 [4] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:41:24,782 [17] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:41:25,397 [8] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:41:31,178 [8] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:41:35,815 [17] INFO  App  
+ Employee with ID =2, Data was accessed 
+ 
+2021-08-11 15:41:42,275 [4] INFO  App  
+ No records were found when of ID =258 
+ 
+2021-08-11 15:41:58,465 [4] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:42:01,075 [17] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:42:03,547 [4] INFO  App  
+ Employee with ID =2, Data was accessed 
+ 
+2021-08-11 15:42:44,797 [19] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:42:53,043 [20] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:43:03,072 [25] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:43:37,400 [27] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:44:59,330 [34] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:45:03,387 [38] INFO  App  
+ Employee with ID =2, Data was accessed 
+ 
+2021-08-11 15:49:33,254 [41] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:49:37,328 [43] INFO  App  
+ Employee with ID =2, Data was accessed 
+ 
+2021-08-11 15:49:57,264 [42] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:50:46,762 [9] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 15:50:46,771 [9] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:50:48,560 [9] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:50:51,562 [8] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:52:22,270 [17] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:54:13,011 [8] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 15:54:13,020 [8] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:54:20,898 [9] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:57:34,993 [4] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 15:57:35,002 [4] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:57:35,853 [4] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:57:46,088 [9] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:57:46,261 [9] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:57:52,165 [14] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:57:52,312 [14] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:58:02,769 [13] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:58:02,919 [13] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 15:58:42,573 [4] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 15:58:42,583 [4] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 15:58:43,429 [4] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 16:03:19,328 [5] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 16:03:19,336 [5] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 16:03:20,122 [5] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 16:03:52,858 [14] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 16:16:35,735 [5] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 16:16:35,744 [5] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 16:16:36,561 [5] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 16:18:46,393 [13] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 16:18:46,608 [13] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 16:26:24,454 [5] INFO  App  
+ Log system initialized 
+ 
+2021-08-11 16:26:24,462 [5] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 16:26:25,284 [5] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 
+2021-08-11 16:28:02,645 [16] INFO  App  
+ Employees data accessed 
+ 
+2021-08-11 16:28:02,845 [16] ERROR App  
+ The entity type 'EmployeeModel' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 
+ 

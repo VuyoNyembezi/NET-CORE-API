@@ -1,0 +1,144 @@
+2021-08-24 08:22:19,543 [5] INFO  App  
+ Log system initialized 
+ 
+2021-08-24 08:22:19,551 [5] INFO  App  
+ Employees data accessed 
+ 
+2021-08-24 08:22:26,982 [13] INFO  App  
+ Employees data accessed 
+ 
+2021-08-24 08:22:31,196 [4] INFO  App  
+ Employee with ID =2004, Data was accessed 
+ 
+2021-08-24 08:23:46,125 [18] INFO  App  
+ Employees data accessed 
+ 
+2021-08-24 08:23:50,933 [24] INFO  App  
+ Employees data accessed 
+ 
+2021-08-24 08:23:54,317 [25] INFO  App  
+ Employee with ID =1002, Data was accessed 
+ 
+2021-08-24 08:23:56,271 [22] INFO  App  
+ Employees data accessed 
+ 
+2021-08-24 08:24:00,025 [22] INFO  App  
+ Employees data accessed 
+ 
+2021-08-24 08:27:16,344 [32] INFO  App  
+ Employees data accessed 
+ 
+2021-08-24 11:15:28,341 [5] INFO  App  
+ Log system initialized 
+ 
+2021-08-24 11:15:28,369 [5] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-08-24 11:15:29,597 [12] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-08-24 11:16:24,155 [4] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-08-24 11:16:37,539 [4] INFO  App  
+ Employee Details of ID = vuyo@gmail.com were updated  
+ 
+2021-08-24 11:16:42,760 [4] INFO  App  
+ Employee Details of ID = vuy@gmail.com were updated  
+ 
+2021-08-24 11:16:49,978 [4] INFO  App  
+ Employee Details of ID = vuyo@gmail.com were updated  
+ 
+2021-08-24 11:19:44,906 [12] INFO  App  
+ Log system initialized 
+ 
+2021-08-24 11:19:44,927 [12] INFO  App  
+ Admin with ID = vuyo@gmail.com Accessed the Sytem 
+ 
+2021-08-24 11:19:46,282 [13] INFO  App  
+ Employees data accessed 
+ 
+2021-08-24 11:23:36,335 [4] INFO  App  
+ Log system initialized 
+ 
+2021-08-24 11:23:36,357 [4] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-08-24 11:25:31,794 [8] INFO  App  
+ Log system initialized 
+ 
+2021-08-24 11:28:34,391 [27] INFO  App  
+ Admin with ID = vuyo@gmail.com Accessed the Sytem 
+ 
+2021-08-24 11:28:43,857 [28] INFO  App  
+ Admin with ID = vuyo@gmail.com Accessed the Sytem 
+ 
+2021-08-24 11:28:43,904 [27] INFO  App  
+ Employees data accessed 
+ 
+2021-08-24 11:28:49,967 [29] INFO  App  
+ Employees data accessed 
+ 
+2021-08-24 12:13:10,068 [5] INFO  App  
+ Log system initialized 
+ 
+2021-08-24 12:13:10,096 [5] INFO  App  
+ Admin with ID = admin@gmail.com Accessed the Sytem 
+ 
+2021-08-24 12:14:13,553 [20] INFO  App  
+ Employees data accessed 
+ 
+2021-08-24 12:15:52,938 [38] INFO  App  
+ Employees data accessed 
+ 
+2021-08-24 12:18:43,238 [41] INFO  App  
+ Employees data accessed 
+ 
+2021-08-24 12:18:48,583 [45] INFO  App  
+ Employees data accessed 
+ 
+2021-08-24 12:20:28,966 [55] INFO  App  
+ Employees data accessed 
+ 
+2021-08-24 12:20:31,027 [60] INFO  App  
+ Employees data accessed 
+ 
+2021-08-24 12:20:32,688 [58] INFO  App  
+ Employees data accessed 
+ 
+2021-08-24 12:27:50,633 [65] INFO  App  
+ Employees data accessed 
+ 
+2021-08-24 12:30:16,863 [69] INFO  App  
+ Employees data accessed 
+ 
+2021-08-24 15:31:17,690 [5] INFO  App  
+ Log system initialized 
+ 
+2021-08-24 15:31:19,587 [9] INFO  App  
+ Employee Details of ID = 2005 were updated  
+ 
+2021-08-24 15:32:03,679 [19] INFO  App  
+ Employee Details of ID = 2005 were updated  
+ 
+2021-08-24 15:32:08,102 [13] INFO  App  
+ Employees data accessed 
+ 
+2021-08-24 15:32:13,699 [13] INFO  App  
+ Employee with ID =2005, Data was accessed 
+ 
+2021-08-24 15:38:25,587 [4] INFO  App  
+ Log system initialized 
+ 
+2021-08-24 15:38:25,597 [4] INFO  App  
+ Employees data accessed 
+ 
+2021-08-24 15:42:41,435 [4] INFO  App  
+ Log system initialized 
+ 
+2021-08-24 15:42:41,444 [4] INFO  App  
+ Employees data accessed 
+ 
+2021-08-24 15:42:52,185 [5] INFO  App  
+ Employee with ID =2005, Data was accessed 
+ 

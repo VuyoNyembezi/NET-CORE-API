@@ -1,0 +1,540 @@
+2021-09-01 09:19:46,338 [4] INFO  App  
+ Log system initialized 
+ 
+2021-09-01 09:25:31,486 [20] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 09:25:33,524 [22] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 09:26:14,516 [28] INFO  App  
+ Employee with ID =2, Data was accessed 
+ 
+2021-09-01 09:26:17,171 [28] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 09:26:18,665 [21] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 09:26:27,554 [32] INFO  App  
+ Employee with ID =2004, Data was accessed 
+ 
+2021-09-01 09:26:30,457 [32] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 09:26:31,606 [33] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 09:27:59,999 [35] INFO  App  
+ Employee with ID =2, Data was accessed 
+ 
+2021-09-01 09:28:01,922 [38] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 09:51:14,340 [12] INFO  App  
+ Log system initialized 
+ 
+2021-09-01 09:54:06,317 [12] INFO  App  
+ Log system initialized 
+ 
+2021-09-01 09:59:47,587 [12] INFO  App  
+ Log system initialized 
+ 
+2021-09-01 10:03:51,657 [14] INFO  App  
+ Log system initialized 
+ 
+2021-09-01 10:04:58,618 [4] INFO  App  
+ Log system initialized 
+ 
+2021-09-01 10:06:37,562 [4] INFO  App  
+ Log system initialized 
+ 
+2021-09-01 10:07:46,238 [19] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 10:09:10,261 [19] INFO  App  
+ Employee with ID =5, Data was accessed 
+ 
+2021-09-01 10:11:45,655 [7] INFO  App  
+ Log system initialized 
+ 
+2021-09-01 10:13:57,442 [8] INFO  App  
+ Log system initialized 
+ 
+2021-09-01 10:16:57,372 [5] INFO  App  
+ Log system initialized 
+ 
+2021-09-01 10:17:26,960 [5] INFO  App  
+ Log system initialized 
+ 
+2021-09-01 10:17:40,205 [13] INFO  App  
+ Employee with ID =2, Data was accessed 
+ 
+2021-09-01 10:19:17,594 [8] INFO  App  
+ Log system initialized 
+ 
+2021-09-01 10:19:18,053 [8] INFO  App  
+ Employee with ID =2, Data was accessed 
+ 
+2021-09-01 10:19:22,199 [9] INFO  App  
+ Employee with ID =2, Data was accessed 
+ 
+2021-09-01 10:23:57,451 [5] INFO  App  
+ Log system initialized 
+ 
+2021-09-01 10:23:57,890 [4] INFO  App  
+ Employee with ID =2, Data was accessed 
+ 
+2021-09-01 10:25:03,618 [8] INFO  App  
+ Log system initialized 
+ 
+2021-09-01 10:26:02,002 [23] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 10:26:04,086 [23] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 10:26:15,833 [23] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 10:26:19,298 [22] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 10:26:21,456 [20] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 10:26:26,210 [18] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 10:26:31,607 [14] INFO  App  
+ Employee with ID 3 is Terminated 
+ 
+2021-09-01 10:26:34,773 [19] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 10:26:39,105 [14] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 10:26:43,653 [23] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 10:28:44,273 [8] INFO  App  
+ Log system initialized 
+ 
+2021-09-01 10:29:04,127 [14] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 10:29:07,081 [8] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 10:29:21,175 [15] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 10:29:23,760 [13] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 10:29:24,483 [5] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 10:29:28,828 [4] INFO  App  
+ Employee with ID =27017, Data was accessed 
+ 
+2021-09-01 10:29:33,136 [14] INFO  App  
+ Employee with ID 27017 is Terminated 
+ 
+2021-09-01 10:29:35,407 [14] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 10:29:37,403 [15] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 10:29:42,382 [13] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 10:30:28,064 [24] INFO  App  
+ new record succeffully added  Tania  Nyembezi 
+ 
+2021-09-01 10:30:31,431 [25] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 10:30:34,277 [27] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 10:30:39,386 [25] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 11:14:32,430 [9] INFO  App  
+ Log system initialized 
+ 
+2021-09-01 11:14:32,438 [9] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 11:40:56,969 [13] INFO  App  
+ Log system initialized 
+ 
+2021-09-01 11:40:56,977 [13] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 11:41:33,889 [9] INFO  App  
+ Log system initialized 
+ 
+2021-09-01 11:41:33,897 [9] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 11:41:46,005 [13] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 11:41:48,172 [5] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 11:41:50,080 [4] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 11:41:51,984 [9] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 11:41:56,881 [13] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 11:41:57,649 [4] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 11:41:58,879 [8] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 11:42:00,313 [5] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 11:42:01,589 [13] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 11:43:41,445 [8] INFO  App  
+ Log system initialized 
+ 
+2021-09-01 11:43:41,455 [8] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 11:44:00,123 [5] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 11:44:01,192 [9] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 11:44:02,613 [9] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 11:44:18,279 [4] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-01 11:44:18,551 [4] ERROR App  
+ No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext. 
+ 
+2021-09-01 11:44:23,136 [12] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-01 11:44:23,250 [12] ERROR App  
+ No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext. 
+ 
+2021-09-01 11:44:40,900 [9] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-01 11:44:41,012 [9] ERROR App  
+ No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext. 
+ 
+2021-09-01 11:44:42,112 [12] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-01 11:44:42,267 [12] ERROR App  
+ No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext. 
+ 
+2021-09-01 11:44:42,543 [5] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-01 11:44:42,662 [5] ERROR App  
+ No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext. 
+ 
+2021-09-01 11:44:47,911 [12] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-01 11:44:48,024 [12] ERROR App  
+ No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext. 
+ 
+2021-09-01 11:44:48,231 [4] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-01 11:44:48,357 [4] ERROR App  
+ No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext. 
+ 
+2021-09-01 11:44:48,417 [8] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-01 11:44:48,561 [8] ERROR App  
+ No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext. 
+ 
+2021-09-01 11:44:48,615 [4] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-01 11:44:48,740 [4] ERROR App  
+ No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext. 
+ 
+2021-09-01 11:44:48,799 [5] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-01 11:44:48,926 [5] ERROR App  
+ No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext. 
+ 
+2021-09-01 11:44:49,022 [4] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-01 11:44:49,152 [4] ERROR App  
+ No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext. 
+ 
+2021-09-01 11:44:49,263 [8] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-01 11:44:49,395 [8] ERROR App  
+ No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext. 
+ 
+2021-09-01 11:44:49,879 [4] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-01 11:44:49,998 [4] ERROR App  
+ No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext. 
+ 
+2021-09-01 11:44:59,994 [22] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-01 11:45:00,118 [22] ERROR App  
+ No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext. 
+ 
+2021-09-01 11:45:09,812 [8] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-01 11:46:06,188 [4] INFO  App  
+ Log system initialized 
+ 
+2021-09-01 11:46:06,211 [4] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-01 11:46:47,705 [22] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-01 11:47:09,916 [8] INFO  App  
+ Log system initialized 
+ 
+2021-09-01 11:47:09,939 [8] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-01 11:47:12,597 [8] ERROR App  
+ No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext. 
+ 
+2021-09-01 11:47:30,344 [8] INFO  App  
+ Log system initialized 
+ 
+2021-09-01 11:47:30,369 [8] INFO  App  
+ Admin/User with email = admin@gmail.com Accessed the Sytem 
+ 
+2021-09-01 11:47:59,786 [23] INFO  App  
+ User's passsword with Email = admin@gmail.com12345 is reseted  
+ 
+2021-09-01 11:57:56,440 [27] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 11:58:53,625 [40] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 11:58:55,259 [38] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 11:59:05,891 [39] INFO  App  
+ Employee with ID =2005, Data was accessed 
+ 
+2021-09-01 11:59:16,862 [33] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 12:14:33,166 [45] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 12:14:40,286 [50] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 12:43:27,554 [54] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 12:43:41,846 [58] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 12:44:42,859 [60] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 12:49:22,367 [68] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 12:49:27,193 [70] INFO  App  
+ Employee with ID =58, Data was accessed 
+ 
+2021-09-01 12:49:30,161 [69] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 12:49:38,721 [69] INFO  App  
+ Employee with ID =1, Data was accessed 
+ 
+2021-09-01 12:49:45,299 [73] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 12:50:13,010 [68] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 12:50:14,204 [70] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 12:50:18,420 [68] INFO  App  
+ Employee with ID =6, Data was accessed 
+ 
+2021-09-01 12:50:24,301 [68] INFO  App  
+ Employee with ID =9852, Data was accessed 
+ 
+2021-09-01 12:50:26,670 [68] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 12:50:43,619 [70] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 12:50:49,548 [74] INFO  App  
+ Employee with ID =1234, Data was accessed 
+ 
+2021-09-01 12:50:52,683 [68] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 12:51:13,111 [78] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 12:51:22,364 [78] INFO  App  
+ Employee with ID =5289, Data was accessed 
+ 
+2021-09-01 12:51:25,507 [80] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 13:33:05,439 [83] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 13:33:20,207 [83] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 13:33:40,014 [90] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 13:34:56,021 [88] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 13:34:59,939 [89] INFO  App  
+ Employee with ID =58, Data was accessed 
+ 
+2021-09-01 13:35:02,259 [86] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 13:39:34,671 [79] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 13:39:39,081 [77] INFO  App  
+ Employee with ID =2, Data was accessed 
+ 
+2021-09-01 13:39:46,355 [72] INFO  App  
+ Employee with ID =85, Data was accessed 
+ 
+2021-09-01 13:39:51,079 [75] INFO  App  
+ Employee with ID =10, Data was accessed 
+ 
+2021-09-01 13:39:53,747 [75] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 13:40:57,035 [71] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 13:43:59,293 [64] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 13:44:16,303 [57] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 13:44:21,512 [52] INFO  App  
+ Employee with ID =5, Data was accessed 
+ 
+2021-09-01 13:44:26,184 [50] INFO  App  
+ Employee with ID =2, Data was accessed 
+ 
+2021-09-01 13:44:30,239 [64] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 13:54:17,796 [44] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 13:54:19,270 [41] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 13:56:49,412 [40] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 13:58:03,364 [33] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 15:15:35,257 [22] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 15:18:17,393 [90] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 15:19:09,528 [90] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 15:19:18,438 [13] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 15:31:05,514 [8] INFO  App  
+ Log system initialized 
+ 
+2021-09-01 15:37:29,162 [9] INFO  App  
+ Log system initialized 
+ 
+2021-09-01 15:37:36,893 [5] ERROR App  
+ Procedure or function 'GetEmployee' expects parameter '@EmployeeID', which was not supplied. 
+ 
+2021-09-01 15:39:02,510 [5] INFO  App  
+ Log system initialized 
+ 
+2021-09-01 15:39:06,028 [8] ERROR App  
+ Procedure or function 'GetEmployee' expects parameter '@EmployeeID', which was not supplied. 
+ 
+2021-09-01 15:40:14,740 [5] INFO  App  
+ Log system initialized 
+ 
+2021-09-01 15:40:29,878 [13] ERROR App  
+ Procedure or function 'GetEmployee' expects parameter '@EmployeeID', which was not supplied. 
+ 
+2021-09-01 15:43:23,693 [13] INFO  App  
+ Log system initialized 
+ 
+2021-09-01 15:43:29,738 [18] ERROR App  
+ Procedure or function 'GetEmployee' expects parameter '@EmployeeID', which was not supplied. 
+ 
+2021-09-01 15:45:50,823 [4] INFO  App  
+ Log system initialized 
+ 
+2021-09-01 16:11:49,091 [21] INFO  App  
+ Log system initialized 
+ 
+2021-09-01 16:12:10,948 [20] INFO  App  
+ User with Id = 2005 is removed  
+ 
+2021-09-01 16:13:08,528 [4] INFO  App  
+ Log system initialized 
+ 
+2021-09-01 16:13:40,752 [18] INFO  App  
+ User with Id = 3003 is removed  
+ 
+2021-09-01 16:15:48,023 [22] INFO  App  
+ Employees data accessed 
+ 
+2021-09-01 16:18:36,712 [30] INFO  App  
+ Employees data accessed 
+ 
